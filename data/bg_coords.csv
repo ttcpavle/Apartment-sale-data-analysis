@@ -1,0 +1,481 @@
+area,city,floor,location,price,rooms,source,square_price,title,opstina,latitude,longitude
+65,Beograd,1," Opština Zemun, Altina, Hemingvejeva",107250,3.0,halooglasi,1650,Altina Hemingvejeva,Zemun,44.8483595,20.3668878
+60,Beograd,p," Opština Vračar, Cvetni trg, Resavska",280000,2.5,halooglasi,4667,"Kod Manježa, 60+30 ID#1310",Vračar,44.8057104,20.4652552
+67,Beograd,3,"Konjarnik (Voždovački deo), Voždovac opština",150000,2.0,4zida,2239,Vladimira Tomanovića,Voždovac,44.7836683,20.4942268
+127,Beograd,6," Opština Čukarica, Cerak vinogradi, Jasenova",244900,4.0,halooglasi,1928,"Cerak vinogradi, Jasenova",Čukarica,44.7477182,20.4258128
+69,Beograd,4," Opština Savski venac, Ekonomski fakultet, Karađorđeva",165000,3.0,halooglasi,2391,"Savski trg, 69m2, IV, ta",Savski Venac,44.8119117,20.4549129
+108,Beograd,1," Opština Čukarica, Filmski grad, Kneza Višeslava",252000,4.0,halooglasi,2333,"Filmski grad, veoma lepo sređen, garaža, ID 20320",Čukarica,44.7467417,20.4290634
+122,Beograd,6," Opština Čukarica, Cerak vinogradi, Vinogradski venac",195000,6.0,halooglasi,1598,"Cerak vinogradi, Vinogradski venac",Čukarica,44.7479344,20.4133585
+50,Beograd,1,"Kotež, Palilula opština",79900,2.5,4zida,1598,Kalovita,Palilula,44.85034,20.4689381
+51,Beograd,p," Opština Zemun, Pregrevica, ",152940,2.0,halooglasi,2999,"Novogradnja, Pregrevica, stan 51m2",Zemun,44.8541701,20.3933057
+42,Beograd,8," Opština Zvezdara, Mirijevo, Mirijevski Venac",80000,1.0,halooglasi,1905,"Mirijevo 1.0,  42 m2, uknjižen",Zvezdara,44.791918,20.5326493
+50,Beograd,3,"Karaburma, Palilula opština",95000,2.0,4zida,1900,Husinskih rudara,Palilula,44.8172035,20.4930174
+41,Beograd,4," Opština Čukarica, Filmski grad, Ilije Stojadinovića",119000,1.0,halooglasi,2902,Uknjižen stan - Filmski grad ID#3403,Čukarica,44.7497403,20.4296438
+170,Beograd,p," Opština Vračar, Gospodara Vučića, ",543990,6.0,halooglasi,3200,"Vračar (Beograd), Gospodara Vučića, Stan, 5, 170m2",Vračar,44.7979128,20.4721945
+50,Beograd,0," Opština Stari grad, Skupština, Palmotićeva",179900,2.0,halooglasi,3598,Palmotićeva,Stari Grad,44.8127043,20.4651683
+67,Beograd,6," Opština Čukarica, Banovo brdo, Požeška",238788,2.0,halooglasi,3564,Banovo brdo - Pozeska ID#4025,Čukarica,44.7782324,20.4150745
+70,Beograd,4," Opština Novi Beograd, Blok 23, Bulevar Arsenija Čarnojevića",229000,3.0,halooglasi,3271,"Blok 23, BAČ, trosoban, renoviran, svetao",Novi Beograd,44.8089458,20.4266481
+58,Beograd,0," Opština Zvezdara, Mirijevo, Aleksandra Tomaševića",105000,2.0,halooglasi,1810,"Mirijevo, Aleksandra Tomaševića, 58m2, 2.0 ID#2496",Zvezdara,44.800156,20.524483
+77,Beograd,1," Opština Novi Beograd, Blok 61, Jurija Gagarina",199500,3.0,halooglasi,2591,Lux stan blok 61 ID#125946,Novi Beograd,44.8014036,20.3970701
+124,Beograd,5," Opština Stari grad, Dunavski kej, ",620000,3.0,halooglasi,5000,"Ekskluzivan, de luxe 3.0 stan u K District komplek",Stari Grad,44.8272929,20.4625313
+75,Beograd,2," Opština Voždovac, Vojvode Stepe, Vojvode Stepe",185000,2.5,halooglasi,2467,"Kompletno renoviran 2.5 stan, 75m2,2/4,CG,topla vo",Voždovac,44.7765813,20.4747389
+45,Beograd,-0.5," Opština Zvezdara, Mirijevo, Kapetana Miloša Žunjića",87000,2.0,halooglasi,1933,"Zvezdara, Mirijevo III - Kapetana Miloša Žunjića",Zvezdara,44.7936846,20.5414766
+60,Beograd,1," Opština Čukarica, Banovo brdo, Mira Popare",188100,2.5,halooglasi,3135,Prodaja stana Banovo brdo Novogradnja,Čukarica,44.779101,20.4130598
+33,Beograd,2," Opština Voždovac, Medaković 2, Rastka Petrovića",80000,1.5,halooglasi,2424,"Svetao, bez ulaganja ID#1349",Voždovac,44.7775388,20.4899206
+85,Beograd,2,"Botanička Bašta, Palilula opština",230000,3.5,4zida,2706,Šajkaška,Palilula,44.8143837,20.4731787
+111,Beograd,0," Opština Zvezdara, Crveni krst, Kajmakčalanska",279000,3.0,halooglasi,2514,Atraktivan trosoban stan sa velikim dvorištem ID#1,Zvezdara,44.7943834,20.5025526
+75,Beograd,2," Opština Zvezdara, Gradska bolnica, Kladovska",202000,3.0,halooglasi,2693,Odličan 3.0 stan u maloj zgradi novije gradnje ID#,Zvezdara,44.7998034,20.5003573
+76,Beograd,p," Opština Surčin, Dobanovci, Branka Radičevića",111200,2.5,halooglasi,1463,Dobanovci Stan 76 dvoiposoban,Surčin,44.8305174,20.2239632
+51,Beograd,0," Opština Palilula, Karaburma, Dragoslava Srejovića",94000,2.5,halooglasi,1843,"Karaburma, 2.5, 51m2 ID#1464",Palilula,44.8110379,20.5090191
+90,Beograd,1," Opština Savski venac, Beograd na vodi, Bulevar Vudroa Vilsona",404460,3.0,halooglasi,4500,"BW Metropolitan, ugaona pozicija, odmah useljiv ID",Savski Venac,44.8002371,20.4443669
+115,Beograd,5,"Beograd centar, Stari Grad opština",345000,4.0,4zida,3000,Balkanska,Stari Grad,44.8196075,20.4604584
+81,Beograd,2," Opština Voždovac, Banjica, Bulevar oslobođenja",179900,3.5,halooglasi,2221,"Voždovac, Banjica - Bulevar oslobođenja, 81m2",Voždovac,44.7632789,20.478794
+97,Beograd,1," Opština Vračar, Centar, Bulevar kralja Aleksandra",420000,3.5,halooglasi,4330,Prodajem salonski lux stan u starogradnji,Vračar,44.803381,20.4804749
+115,Beograd,5," Opština Stari grad, Terazije, Balkanska",345000,4.0,halooglasi,3000,"Stari grad, Terazije - Balkanska, 115m2",Stari Grad,44.8132106,20.4604692
+62,Beograd,p," Opština Zvezdara, Lion, Batutova",185000,2.0,halooglasi,2984,"Zvezdara, Batutova,62m2, IIIsp, CG, 2.0 terasa",Zvezdara,44.7967616,20.4995293
+33,Beograd,2,"Kalenić, Vračar",135000,1.0,4zida,4091,Hadži Prodanova,Vračar,44.8014045,20.4760253
+33,Beograd,0," Opština Zvezdara, Veliki Mokri Lug, Vladimira Dvornikovića",60000,1.5,halooglasi,1818,Zvezdara,Zvezdara,44.7540763,20.5282101
+87,Beograd,1," Opština Voždovac, Kumodraška",243600,3.0,halooglasi,2800,Extra Lux stan na Voždovcu-bez provizije,Voždovac,44.7794356,20.4791937
+41,Beograd,1," Opština Voždovac, Medaković padina, ",85000,1.5,halooglasi,2073,Dobra ponuda 1.5 Medak ID#128803,Voždovac,44.7719517,20.5006976
+70,Beograd,0," Opština Zvezdara, Mirijevo, Aleksandra Belića",77000,2.5,halooglasi,1100,"Mirijevo, Aleksandra Belića, 70 m2 - Hitna prodaja",Zvezdara,44.7873473,20.5446385
+69,Beograd,-0.5," Opština Palilula, Karaburma, Aleksandra Fleminga 29",82800,3.0,halooglasi,1200,Karaburma lux,Palilula,44.8130704,20.5125638
+15,Beograd,0," Opština Zvezdara, Severni bulevar, Severni bulevar",43000,0.5,halooglasi,2867,Odlična garsonjera na Zvezdari,Zvezdara,44.8104914,20.4933361
+55,Beograd,1," Opština Novi Beograd, Tošin bunar, ",179875,2.0,halooglasi,3270,Novogradnja - Tošin bunar,Novi Beograd,44.8163487,20.3972576
+115,Beograd,p," Opština Savski venac, Dedinje, Kronštatska",319000,4.0,halooglasi,2774,"Kronštatska, Dedinje, Savski venac",Savski Venac,44.7771618,20.4550006
+48,Beograd,p," Opština Vračar, Kalenić pijaca, Požarevačka",180000,2.0,halooglasi,3750,Požarevačka Kalenić pijaca Vračar Beograd Srbij...,Vračar,44.8000554,20.4755014
+87,Beograd,9," Opština Rakovica, Vidikovac, Patrijarha Joanikija",159000,3.5,halooglasi,1828,Patrijarha Joanikija Vidikovac Rakovica Beograd...,Rakovica,44.733978,20.4206898
+16,Beograd,0,"Dedinje, Savski Venac",53000,0.5,4zida,3313,Miće Orlovića,Savski Venac,44.7730345,20.4589093
+47,Beograd,1," Opština Zvezdara, Đeram pijaca, Preševska 17-19",157000,2.0,halooglasi,3340,Novogradnja kod Đeram pijace - Preševska ulica,Zvezdara,44.8013233,20.4872447
+76,Beograd,10," Opština Novi Beograd, Blok 63, Jurija Gagarina",172400,3.0,halooglasi,2268,"Trosoban sa lepim pogledom, Blok 63",Novi Beograd,44.8022565,20.3965658
+64,Beograd,0.5," Opština Zemun, Cara Dušana",152300,2.0,halooglasi,2400,NOVO!Zemun-bez provizije za kupca,Zemun,44.8577423,20.3809578
+32,Beograd,0," Opština Voždovac, TC Stadion, Mickijevičeva",59000,1.0,halooglasi,1844,"Micikijevićeva, TC Stadion, Voždovac ID#1211",Voždovac,44.7751305,20.489899
+81,Beograd,4,"Saobraćajni fakultet, Voždovac, Voždovac opština",169000,2.5,4zida,2086,Milana Raspopovića,Voždovac,44.7658699,20.4829438
+57,Beograd,0," Opština Zemun, Zemun polje, Dejana Dubajića",91200,2.5,halooglasi,1600,"Zemun polje, 57m2, 2.5 - odlična novogradnja",Zemun,44.8750324,20.3138761
+83,Beograd,p," Opština Vračar, Crveni krst, Šumatovačka",350000,3.0,halooglasi,4217,"Crveni krst, Sumatovacka, 3.0, 83 m2",Vračar,44.7952892,20.4734779
+92,Beograd,4," Opština Voždovac, Trošarina, Vojvode Stepe",207000,3.0,halooglasi,2250,"Vozdovac,Vojvode Stepe",Voždovac,44.7597229,20.4852768
+63,Beograd,p," Opština Palilula, 27. marta, 27. marta",127000,2.5,halooglasi,2016,"Palilula 2,5, 63m2, 4/4, terasa",Palilula,44.8125831,20.4727432
+42,Beograd,2," Opština Zvezdara, Veliki Mokri Lug, Cvetanova ćuprija",100000,2.0,halooglasi,2381,Dvosoban stan od 42 m2,Zvezdara,44.7594095,20.5185617
+41,Beograd,2," Opština Savski venac, Beograd na vodi, Hercegovačka",201888,1.0,halooglasi,5003,BW Bella 40.35m2 ID#10263,Savski Venac,44.8100818,20.4501661
+45,Beograd,3," Opština Savski venac, Dedinje, Mihajla Avramovića ",180000,2.0,halooglasi,4000,"Odličan, podno grejanje sa terasom",Savski Venac,44.7752073,20.4592289
+91,Beograd,5,"Konjarnik, Zvezdara opština",226900,3.0,4zida,2493,Bulevar kralja Aleksandra,Zvezdara,44.7915673,20.5064332
+59,Beograd,0.5," Opština Zvezdara, Mirijevo, Ljube Tadića",80000,2.5,halooglasi,1356,"Mirijevo, Ljube Tadića 43m2+16m2 terasa ID#124367",Zvezdara,44.796922,20.5337927
+54,Beograd,1," Opština Zemun, Altina, Ugrinovački put 34. deo",72900,2.5,halooglasi,1350,54m2 Altina - opis u tekstu oglasa,Zemun,44.8596076,20.3500484
+52,Beograd,1," Opština Čukarica, Julino brdo, Grigora Viteza",100000,2.0,halooglasi,1923,Prodaja dvosobn stana na Julinom b bez posrednika,Čukarica,44.7638412,20.4092521
+44,Beograd,1," Opština Voždovac, Trošarina, ",131640,1.5,halooglasi,3000,"Lux novogradnja Trošarina, 43,88 m2 cena + Pdv",Voždovac,44.7613893,20.4808961
+30,Beograd,2,"Lekino Brdo, Voždovac opština",116000,0.5,4zida,3867,Belička,Voždovac,44.7901269,20.4845469
+92,Beograd,6," Opština Vračar, Južni bulevar, Sime Igumanova",224000,3.5,halooglasi,2435,"Prodaje se stan,Vračar ID#1433",Vračar,44.7919751,20.4707263
+67,Beograd,2," Opština Zemun, Kalvarija, Zlatiborska",218688,3.0,halooglasi,3264,"Kalvarija, Pametna zgrada, Lux novogradnja",Zemun,44.8380469,20.3963811
+62,Beograd,4," Opština Novi Beograd, Bežanijska kosa 3, Kolumbova",142000,3.0,halooglasi,2290,Stan na odličnoj lokaciji na Bežanijskoj kosi,Novi Beograd,44.8080199,20.367432
+68,Beograd,0," Opština Čukarica, Žarkovo, Ratka Mitrovića",123600,2.0,halooglasi,1831,"Zarkovo, Ratka Mitrovica",Čukarica,44.7594261,20.4137684
+67,Beograd,2,"Blok 45, Novi Beograd",165000,2.5,4zida,2463,Jurija Gagarina,Novi Beograd,44.8133048,20.4183382
+85,Beograd,1," Opština Savski venac, Klinički centar, Kneza Miloša",189000,4.0,halooglasi,2224,Stan u centru Beograda ID#1045,Savski Venac,44.7980443,20.4589018
+29,Beograd,p," Opština Rakovica, Labudovo brdo, Čajnička",64000,1.0,halooglasi,2207,Čajnička Labudovo brdo Rakovica Beograd Srbija,Rakovica,44.728355,20.4245747
+97,Beograd,1," Opština Zvezdara, Mirijevo, Vitezova Karađorđeve Zvezde",159900,3.0,halooglasi,1648,"Novogradnja, useljiva za mesec dana ID#126979",Zvezdara,44.7945615,20.5286269
+71,Beograd,2," Opština Zemun, Gornji grad, Prvomajska",184350,3.0,halooglasi,2600,"Prvomajska, Gornji grad, Zemun ID#1472",Zemun,44.8518881,20.3917208
+106,Beograd,2," Opština Stari grad, Centar, Vlajkovićeva",370000,4.0,halooglasi,3491,Vlajkovićeva ID#1242,Stari Grad,44.8139993,20.4669605
+220,Beograd,3," Opština Savski venac, Dedinje, Vladimira Gaćinovića",800000,6.0,halooglasi,3636,6.0 220m2+L Dedinje - Američka ambasada,Savski Venac,44.7731026,20.4569881
+49,Beograd,p," Opština Palilula, Borča, Kikindska",88200,2.0,halooglasi,1800,"Novogradnja, Borča Kikindska ulica",Palilula,44.8917626,20.4665495
+58,Beograd,p," Opština Grocka, Kaluđerica, Preradovićeva  br.21",92800,3.0,halooglasi,1600,"Novogradnja 58mkv, dve spavace, useljiv.",Grocka,44.7557801,20.5579418
+96,Beograd,5," Opština Savski venac, Dedinje, Neznanog Junaka",211200,3.0,halooglasi,2200,"Neznanog junaka, Dedinje-Pink, Savsk ID#2080",Savski Venac,44.7738802,20.4617591
+34,Beograd,2,"Zemun - Centar, Zemun, Zemun opština",81900,1.0,4zida,2409,Svetosavska,Zemun,44.8444,20.4123996
+109,Beograd,0.5," Opština Stari grad, Centar, Palmotićeva",290000,3.0,halooglasi,2661,Palmotićeva Palmotićeva Stari grad Beograd Srbi...,Stari Grad,44.8161536,20.4710814
+88,Beograd,3," Opština Vračar, Neimar, ",264000,4.0,halooglasi,3000,"88m2 – Šumatovačka, Vračar, beograd",Vračar,44.7943605,20.4726086
+86,Beograd,4,"Crveni Krst Zvezdara, Zvezdara opština",270000,2.0,4zida,3140,Golubačka,Zvezdara,44.803527,20.4815513
+45,Beograd,1," Opština Novi Beograd, Blok 72, Dr Ivana Ribara",123000,1.5,halooglasi,2733,"Blok 72, Dr Ivana Ribara",Novi Beograd,44.8011732,20.3671694
+52,Beograd,p,"Rvati, Obrenovac opština",61800,2.0,4zida,2289,PRIMAVERA,Obrenovac,44.6556172,20.1965544
+85,Beograd,1," Opština Novi Beograd, Blok 62, Jurija Gagarina",198000,3.5,halooglasi,2329,"Troiposoban stan,blok  62",Novi Beograd,44.8033301,20.3775513
+115,Beograd,2," Opština Voždovac, FON - Bilećka, Ljube Šercera",200000,4.0,halooglasi,1739,"Vozdovac, Ljube Sercera",Voždovac,44.7725326,20.4751335
+45,Beograd,17," Opština Voždovac, Braće Jerković, Braće Jerković 72",93500,1.5,halooglasi,2078,TOP PONUDA direktno od vlasnika,Voždovac,44.7661287,20.4912391
+72,Beograd,1," Opština Savski venac, Beograd na vodi, BW TERRACES",420000,2.0,halooglasi,5915,"BW Terraces, Beograd na vodi, 2.0, namešten stan n",Savski Venac,44.8075894,20.4493752
+60,Beograd,5," Opština Vračar, Čubura, Šumatovačka",178000,2.5,halooglasi,2967,"Čubura, Šumatovačka",Vračar,44.7951103,20.4808227
+68,Beograd,3," Opština Palilula, Višnjička Banja, Mirka Milojkovića",128500,3.0,halooglasi,1907,"Sunnyville,LUX useljiv stan",Palilula,44.8203945,20.5355783
+73,Beograd,10," Opština Palilula, Karaburma, Mirijevski bulevar",189800,3.5,halooglasi,2600,Odličan LUX stan na Karaburme,Palilula,44.8138834,20.5206044
+35,Beograd,-0.5," Opština Zvezdara, Vukov Spomenik, Đuke Dinić",85000,1.0,halooglasi,2429,"Vukov spomenik, Bulevar, 35m2, uknjižen",Zvezdara,44.8026019,20.4861991
+112,Beograd,16," Opština Savski venac, Beograd na vodi, ",463888,4.0,halooglasi,4167,BW Nika - Četvorosoban stan na prodaju,Savski Venac,44.8054456,20.450213
+85,Beograd,p," Opština Zemun, Zemun polje, Šandora Majora",150000,3.0,halooglasi,1765,"Zemun Polje, Šandora Majora, 85m2, 3.0 ID#2491",Zemun,44.8742844,20.3183037
+70,Beograd,0," Opština Savski venac, Dedinje, Slavka Ćuruvije",260000,2.0,halooglasi,3714,"Savski venac, Dedinje - Slavka Ćuruvije",Savski Venac,44.7615052,20.4545667
+107,Beograd,0.5," Opština Vračar, Crveni krst, ",277000,4.0,halooglasi,2589,"Crveni krst, četvorosoban, VPR, 70m2+ terasa  ID19",Vračar,44.7979149,20.4866194
+110,Beograd,7," Opština Stari grad, Politika, Stevana Sremca",430000,4.0,halooglasi,3909,Prelep stan na savršenoj mikrolokaciji ID#127104,Stari Grad,44.8157469,20.4647048
+80,Beograd,2," Opština Vračar, Pravni fakultet, Kumanovska",382000,3.0,halooglasi,4775,Kumanovska 80m2+18m2 predprostor+4m2 lođa + garaža,Vračar,44.8072919,20.4726165
+100,Beograd,2," Opština Voždovac, Autokomanda, Admirala Vukovića",250000,3.0,halooglasi,2500,"Beograd, Autokomanda, Stan, 3.0, 100m2",Voždovac,44.7852736,20.4719649
+195,Beograd,p," Opština Čukarica, Filmski grad, Arčibalda Rajsa",369000,4.0,halooglasi,1892,"Čukarica, Filmski grad,Arčibalda Rajsa, 4.0,195m2",Čukarica,44.7518383,20.4277327
+116,Beograd,7," Opština Savski venac, Beograd na vodi, Savska",431888,4.0,halooglasi,3723,"BW Quartet 3, pogled na Savski park, useljivo 2024",Savski Venac,44.8063535,20.4546009
+50,Beograd,1," Opština Palilula, Borča, Zrenjaninski put",69990,1.5,halooglasi,1400,Uknjizen stan od vlasnika Borca,Palilula,44.8923496,20.4575191
+70,Beograd,5," Opština Voždovac, Braće Jerković, Skendera Kulenovića",149000,3.0,halooglasi,2129,Voždovac Skendera Kulenovića,Voždovac,44.7682225,20.4923785
+64,Beograd,p," Opština Voždovac, Dušanovac, Ustanička",179000,2.0,halooglasi,2797,"Šumice, 64m2, VII, cg, lux",Voždovac,44.787134,20.4778715
+64,Beograd,p," Opština Surčin, Ledine, Višegradska",129990,2.5,halooglasi,2050,Ledine- novogradnja kod hrama Sv.Mateja ID#1780,Surčin,44.8001896,20.3326594
+56,Beograd,5,"Šumice, Voždovac opština",147000,2.5,4zida,2625,Ustanička,Voždovac,44.7843997,20.4954275
+110,Beograd,p," Opština Rakovica, Vidikovac, Sretena Mladenovića Mike",130000,5.0,halooglasi,1182,Prodajem petosoban stan,Rakovica,44.7347394,20.4221683
+141,Beograd,5," Opština Zvezdara, Lipov lad, Đevđelijska",368500,4.5,halooglasi,2613,Lipov lad- Đevđelijska,Zvezdara,44.7956899,20.4944703
+56,Beograd,11,"Vidikovac, Rakovica opština",85000,2.0,4zida,1518,Vidikovacki venac,Rakovica,44.738888,20.4230507
+61,Beograd,2," Opština Čukarica, Julino brdo, Poučnika Spasič I Mašere",128000,2.0,halooglasi,2098,"Beograd, Julino brdo, Poručnika Spasića i  Mašere,",Čukarica,44.7679761,20.4098406
+70,Beograd,1,"Gornji Grad, Zemun, Zemun opština",177800,3.0,4zida,2540,Banijska,Zemun,44.8479687,20.3979626
+42,Beograd,0.5," Opština Zemun, Plavi horizonti, Lugarska",69000,2.0,halooglasi,1653,"Top novogradnja, od 31m2 do 63m2, Plavi Horizonti",Zemun,44.8588654,20.3253185
+68,Beograd,0," Opština Zvezdara, Mirijevo, Mirijevski venac",145000,3.0,halooglasi,2132,"3.0, Mirijevo, Mirijevski venac, 68m2",Zvezdara,44.7919366,20.5326372
+109,Beograd,4," Opština Stari grad, Trg Republike, Bulevar despota Stefana",598000,4.0,halooglasi,5486,Trg Republike - Bulevar despota Stefana 109m2+31m2,Stari Grad,44.8162216,20.4602953
+89,Beograd,p," Opština Čukarica, Filmski grad, Veljka Petrovića ",136000,4.0,halooglasi,1528,Extra povoljan uknjiženi stan na Čukarici,Čukarica,44.7541865,20.4258338
+22,Beograd,5," Opština Vračar, Južni bulevar, Sime Igumanova",85000,0.5,halooglasi,3864,"Sime Igumanova, Južni bulevar, Vračar ID#1512",Vračar,44.7923041,20.471513
+28,Beograd,0," Opština Savski venac, Sarajevska, Sarajevska",59000,2.0,halooglasi,2107,"Centar, Sarajevska, 2.0, 28m2,pr, dvorišno",Savski Venac,44.8011431,20.4520527
+47,Beograd,1," Opština Zemun, Batajnica, Kralja Mihaila Zetskog",79900,2.0,halooglasi,1700,"Kod toplane, besplatan parking, dogovor za kes",Zemun,44.8927233,20.294502
+90,Beograd,p," Opština Voždovac, Vojvode Vlahovića, ",265000,3.0,halooglasi,2944,"Vojvode Vlahovića, terasa 35m2 i 2 garažna mesta I",Voždovac,44.7593419,20.508876
+54,Beograd,0,"Grocka, Grocka opština",52700,1.5,4zida,976,Luneta Milovanovića,Grocka,44.6709248,20.7170219
+71,Beograd,p," Opština Zemun, Pregrevica, Pregrevica",220000,3.5,halooglasi,3099,"Troiposoban 71m2, Pregrevica",Zemun,44.8549096,20.3909442
+67,Beograd,3," Opština Voždovac, Šumice, Vladimira Tomanovića",143000,2.0,halooglasi,2134,"Šumice, Hotel Srbija, uknjižen, brzo useljiv",Voždovac,44.7857499,20.489139
+54,Beograd,2," Opština Stari grad, Dorćol, Gospodar Jovanova",243000,2.0,halooglasi,4500,"Dorćol-G.Jovanova, 54m2, II, ta",Stari Grad,44.8197205,20.4628966
+71,Beograd,0," Opština Stari grad, Dorćol, Jevrejska",145000,3.0,halooglasi,2042,"Prodaja, stan, Jevrejska,71m2, Id928",Stari Grad,44.8269406,20.4572571
+51,Beograd,12," Opština Savski venac, Beograd na vodi, Bulevar Vudroa Vilsona",250000,2.0,halooglasi,4902,"Dvosoban stan u zgradi BW Metropolitan, Belgrade w",Savski Venac,44.8039467,20.450014
+71,Beograd,2," Opština Zemun, Save Kovačevića, Drenova",175650,2.5,halooglasi,2500,"Zemun, Sava Kovačević, 2.5, 70m2",Zemun,44.8417884,20.393393
+272,Beograd,p," Opština Voždovac, Vojvode Stepe, Admirala Vukovića",750000,4.0,halooglasi,2757,"Voždovac (Beograd), Vojvode Stepe, Stan, 4, 272m2",Voždovac,44.7664894,20.4817341
+103,Beograd,4,"Neimar, Vračar",387000,4.0,4zida,3757,Janka Veselinovića,Vračar,44.7941849,20.4780172
+77,Beograd,3,"Banovo Brdo, Čukarica, Čukarica opština",200000,3.5,4zida,2597,Požeška,Čukarica,44.7864025,20.4144587
+52,Beograd,11," Opština Novi Beograd, Blok 30 (B92), Bulevar Mihajla Pupina",199000,2.0,halooglasi,3827,"Blok 30, 2,0, 52m2, XI, kompletno sređen",Novi Beograd,44.814223,20.4394835
+87,Beograd,0.5," Opština Zvezdara, Severni bulevar, Ledinačka",175000,3.5,halooglasi,2011,"Zvezdara, Severni bulevar - Ledinačka, 87m2",Zvezdara,44.8118553,20.4956806
+67,Beograd,1," Opština Novi Beograd, Blok 29,  bul.zorana djindjica",187000,2.5,halooglasi,2791,Blok 29,Novi Beograd,44.8163633,20.4194002
+134,Beograd,1," Opština Savski venac, Dedinje, Krupanjska",450000,4.0,halooglasi,3358,Izvanredna lokacija - četvorosoban- do petosoban s,Savski Venac,44.7719081,20.4579017
+47,Beograd,0," Opština Novi Beograd, Blok 18 (Staro sajmište), Sajmište",115000,2.0,halooglasi,2447,"Hitna prodaja! Novi Beograd - Sajmište, 47m2",Novi Beograd,44.8140083,20.4429849
+77,Beograd,2," Opština Zvezdara, Učiteljsko naselje, Zivka Davidovica",204050,2.5,halooglasi,2650,"Prodaja, stan, Zivka Davidovica, 77m2, Id733",Zvezdara,44.7912708,20.5106416
+50,Beograd,p," Opština Zvezdara, Bulevar kralja Aleksandra, Bulevar kralja Aleksandra",119900,1.0,halooglasi,2398,Bulevar kralja Aleksandra,Zvezdara,44.7899526,20.514711
+105,Beograd,3," Opština Vračar, Čubura, ",350000,3.0,halooglasi,3333,Odličan trosoban komforan stan kod Čuburskog parka,Vračar,44.7981011,20.4756422
+92,Beograd,2," Opština Rakovica, Stari Košutnjak, Pere Velimirovića",299000,3.5,halooglasi,3250,Lux 4.0 Lisičji potok / Stari Košutnjak,Rakovica,44.7569508,20.446633
+97,Beograd,3," Opština Zvezdara, Cvetkova pijaca, Miodraga Petrovića Čkalje",269000,4.0,halooglasi,2790,"Cvetkova pijaca, Zvezdara ID#1909",Zvezdara,44.7919788,20.5032947
+29,Beograd,5," Opština Stari grad, Kalemegdan, Cara Dušana",112000,0.5,halooglasi,3862,"Kalemegdan, 29m2, 0.5, V/6, cg, lift ID#1713",Stari Grad,44.8233906,20.450875
+71,Beograd,11,"Blok 62, Bežanijski Blokovi, Novi Beograd",173500,2.0,4zida,2444,Jurija Gagarina,Novi Beograd,44.8028126,20.3736643
+70,Beograd,p," Opština Voždovac, Konjarnik, Ustanička",160000,3.0,halooglasi,2286,"Konjarnik, 70m2, VI, cg",Voždovac,44.7833877,20.5018765
+86,Beograd,p," Opština Zemun, Centar, Prvomajska",135000,4.0,halooglasi,1570,"Prvomajska, PRVOMAJSKA, Zemun ID#1338",Zemun,44.8410711,20.3967865
+58,Beograd,1," Opština Čukarica, Cerak, Šavnička",107000,3.5,halooglasi,1845,"Šavnička, Cerak, Čukarica ID#2248",Čukarica,44.7555864,20.4168161
+68,Beograd,0," Opština Palilula, Višnjička Banja, Slobodana Jovanovića",120000,2.0,halooglasi,1765,"Odlična lokacija par minuta od busa, Idee i vrtića",Palilula,44.8153401,20.5365867
+61,Beograd,p," Opština Sopot, Rogača, Prvomajska",125000,3.0,halooglasi,2049,"Kosmaj Residence, 61m2, sa parking mestom ID#7698",Sopot,44.459583,20.5216505
+51,Beograd,3," Opština Voždovac, Medaković 2, Radovana Simića Cige",110000,1.5,halooglasi,2157,"Voždovac, Medaković 2, Radovana Simića Cige, 46+5m",Voždovac,44.774838,20.4974196
+95,Beograd,3," Opština Palilula, Tašmajdan, Kneza Danila",324300,3.0,halooglasi,3414,"Palilula, Tašmajdan - Kneza Danila",Palilula,44.8092198,20.4705954
+90,Beograd,5," Opština Novi Beograd, Bežanijska kosa 2, Ljubinke Bobić",269999,3.0,halooglasi,3000,Renovirana nekretnina sa fenomenalnim pogledom,Novi Beograd,44.8137123,20.3791559
+57,Beograd,2," Opština Rakovica, Centar, Starca Milije",118000,2.5,halooglasi,2070,"Rakovica-S.Milije, 57m2 II, cg",Rakovica,44.7466382,20.4392903
+75,Beograd,p," Opština Voždovac, Banjica, Bulevar Jna",189900,2.5,halooglasi,2532,"Paunov breg, 75m2, VII, cg",Voždovac,44.7562005,20.47756
+89,Beograd,1,"Mirijevo, Zvezdara opština",152000,4.0,4zida,1708,Kapetana Miloša Žunjića,Zvezdara,44.7944854,20.527983
+56,Beograd,0.5," Opština Voždovac, Šumice, Splitska",142000,2.0,halooglasi,2536,"Šumice, idealna lokacija ID#6888",Voždovac,44.7854672,20.4954605
+127,Beograd,6," Opština Savski venac, Palata pravde, Dr Aleksandra Kostića",350000,4.0,halooglasi,2756,"Centar, Dr. Aleksandra Kostića,  127m2 ID#3491",Savski Venac,44.8049284,20.4543835
+51,Beograd,p," Opština Novi Beograd, Blok 63, Gandijeva",123500,2.0,halooglasi,2422,Mirno okruženje u bloku 63 ID#5964,Novi Beograd,44.7996201,20.3907458
+90,Beograd,0.5," Opština Voždovac, Medaković 3, Braće Srnić",198000,3.5,halooglasi,2200,"Medaković III, 90m2, vp, cg, lux, visina I sprata,",Voždovac,44.7736432,20.5061304
+58,Beograd,0," Opština Palilula, Borča, Modrička",87000,3.5,halooglasi,1500,"Palilula, Borča - Modrička",Palilula,44.8934135,20.466035
+67,Beograd,0," Opština Palilula, Borča",93700,2.0,halooglasi,1399,Borča Centar 5 2.0,Palilula,44.8773292,20.4570078
+43,Beograd,2," Opština Zemun, Altina, Ugrinovački put 82g",76000,1.5,halooglasi,1784,"Jednoiposoban stan 42,6 m2",Zemun,44.8573939,20.3568478
+66,Beograd,1," Opština Voždovac, Ustanička, Vidska",170000,3.0,halooglasi,2576,"Trosoban stan u Ustaničkoj, 66 m2",Voždovac,44.7887891,20.4738412
+87,Beograd,5,"Đeram, Zvezdara opština",235500,3.0,4zida,2707,Šabačka,Zvezdara,44.8059254,20.4829544
+65,Beograd,5,"Voždovac, Voždovac opština",155000,3.5,4zida,2385,Kraljevačka,Voždovac,44.7779408,20.4734682
+67,Beograd,3," Opština Palilula, Višnjička Banja, Višnjički venac",125000,2.5,halooglasi,1866,"Višnjička banja, Energoprojektove zgrade",Palilula,44.8167592,20.5347643
+101,Beograd,p," Opština Novi Beograd, Blok 67 (Belvil), Jurija Gagarina",350000,3.0,halooglasi,3465,Novi Beograd-Belville ID#1173,Novi Beograd,44.8025811,20.3960933
+47,Beograd,p," Opština Voždovac, Braće Jerković, Jovana Bijelića",135000,2.0,halooglasi,2872,"Braće Jerković, Jovana Bijelića, 47m2 ID#53600",Voždovac,44.7698888,20.4923167
+65,Beograd,0.5," Opština Stari grad, Kosančićev venac, Fruškogorska",250000,3.5,halooglasi,3846,"Prodaja stana, Kosančićev venac, 65m2",Stari Grad,44.8169246,20.4529263
+49,Beograd,5," Opština Savski venac, Centar, Gavrila Principa",189000,3.0,halooglasi,3857,"Centar, Gavrila Principa, 3.0, 49 m2",Savski Venac,44.8125802,20.4553952
+245,Beograd,1," Opština Savski venac, Dedinje, Flore Sends",890000,6.0,halooglasi,3633,Dedinje-Flore Sends-245m2-Dva Garažna mesta-Uknjiž,Savski Venac,44.764499,20.4604382
+49,Beograd,p," Opština Zemun, Centar, Kneza Pavla Karađorđevića",162000,2.5,halooglasi,3306,"Beograd, Centar, Stan, 2.5, 49m2",Zemun,44.8428729,20.4125762
+93,Beograd,1," Opština Novi Beograd, Bežanijska kosa 3, ",225000,3.5,halooglasi,2419,Odličan 3.5 stan na Bežanijskoj kosi,Novi Beograd,44.8172862,20.3818887
+73,Beograd,1," Opština Palilula, Centar, Svetozara Ćorovića",219000,3.0,halooglasi,3000,Palilula Centar Svetozara Ćorovića 73m2,Palilula,44.8085696,20.4793765
+73,Beograd,5,"Banjica, Voždovac opština",150000,3.0,4zida,2055,Bulevar oslobođenja,Voždovac,44.7609447,20.4846031
+54,Beograd,p," Opština Voždovac, Banjica, Radomira Markovića",129000,2.0,halooglasi,2389,Odlična lokacija ID#7043,Voždovac,44.7507684,20.4782504
+27,Beograd,0.5," Opština Čukarica, Bele vode, Buda Tomovića",58000,1.0,halooglasi,2148,Jednosoban stan na Belim vodama ID#1012,Čukarica,44.7480782,20.4080464
+97,Beograd,2,"Bežanijska kosa 2, Bežanijska kosa, Novi Beograd",250000,4.0,4zida,2577,Marka Čelebonovića,Novi Beograd,44.8274753,20.3601175
+67,Beograd,2," Opština Rakovica, Petlovo brdo, Mrakovička",129900,2.5,halooglasi,1939,Uknjižen renoviran stan - Petlovo brdo ID#3399,Rakovica,44.7239154,20.4253879
+67,Beograd,p," Opština Zemun, Galenika, Sestara Strain",145000,2.0,halooglasi,2164,"Galenika,garaža, parking mesto,52+15,lux ID#1134",Zemun,44.8555722,20.3697118
+57,Beograd,1,"Bele Vode, Čukarica, Čukarica opština",110000,2.0,4zida,1930,Milana Šarca,Čukarica,44.7504778,20.4060418
+65,Beograd,2," Opština Čukarica, Cerak vinogradi, Vinogradski venac",139000,3.0,halooglasi,2138,"3.0 stan , Ceraku Vinogradi (59m2 + 6m2) + 3m2",Čukarica,44.7418998,20.4141727
+62,Beograd,2," Opština Čukarica, Cerak, Stojana Matića",132500,2.0,halooglasi,2137,Čukarica | Stojana Matića | 62m2,Čukarica,44.7546112,20.4167207
+56,Beograd,1," Opština Zvezdara, Konjarnik, Slobodana Lale Berberskog",102000,2.0,halooglasi,1821,"Konjarnik, Slobodana Lale Berberskog, 56m2 ID#5359",Zvezdara,44.7841755,20.5055572
+55,Beograd,p," Opština Palilula, Borča, Banijska",81900,2.0,halooglasi,1489,"Borča - Banijska-2,0-55m2+4m2 - uknjižen",Palilula,44.8722279,20.4611038
+51,Beograd,3," Opština Novi Beograd, Blok 24 (Super Vero), Milutina Milankovića",200000,2.0,halooglasi,3922,"Arena, 51m2, III, cg, lux",Novi Beograd,44.812707,20.4061079
+37,Beograd,p," Opština Voždovac, Braće Jerković, Darvinova",79000,2.0,halooglasi,2135,"Voždovac, Braće Jerković - Darvinova",Voždovac,44.7724399,20.4859148
+101,Beograd,p," Opština Vračar, Crveni krst, Gročanska",333000,3.0,halooglasi,3297,Lepota funkcionalnosti svakodnevnog života,Vračar,44.7929574,20.4925516
+92,Beograd,p," Opština Stari grad, Dorćol, Dositejeva",214000,4.0,halooglasi,2326,"Stari grad, Dositejeva 4.0",Stari Grad,44.8189978,20.4634434
+143,Beograd,p," Opština Zemun, Karađorđev trg, Glavna",270000,4.0,halooglasi,1888,"Beograd, Karadjordjev trg, Stan, 4.0, 143m2",Zemun,44.8372525,20.4173053
+73,Beograd,2," Opština Zemun, Ugrinovačka",197000,3.5,halooglasi,2699,Novogradnja 73m2 3.5 sa PDV,Zemun,44.848381,20.3745832
+100,Beograd,1," Opština Grocka, Kaluđerica, Dragoljuba Stojanovica",107000,3.0,halooglasi,1070,Kaldujerica 3.0 stan prodaja ID#1395,Grocka,44.7571211,20.5620731
+46,Beograd,1," Opština Savski venac, Centar, Karađorđeva",135000,2.0,halooglasi,2935,Centar - Karađorđeva ID#3956,Savski Venac,44.8112231,20.4545639
+73,Beograd,5," Opština Voždovac, Banjica, Bulevar oslobođenja",155000,3.0,halooglasi,2123,"Banjica, Bulevar oslobođenja, 3.0, pogled",Voždovac,44.7623153,20.4793667
+56,Beograd,29," Opština Novi Beograd, Blok 65, Omladinskih brigada",320000,2.0,halooglasi,5714,"Kula West, opremljen, 56m2 ID#6730",Novi Beograd,44.8008078,20.4019011
+65,Beograd,0.5," Opština Rakovica, Petlovo brdo, Bubanjskih žrtava",140000,3.0,halooglasi,2154,Stan na Petlovom Brdu dvoiposoban visoko prizemlje,Rakovica,44.7252259,20.4280145
+61,Beograd,4,"Kluz, Zvezdara opština",132000,1.5,4zida,2164,Voje Veljkovića,Zvezdara,44.7906074,20.5154643
+43,Beograd,p," Opština Čukarica, Vodovodska, Milorada Jovanovića",88000,1.5,halooglasi,2047,"Čukarica, Milorada Jovanovića,5/5",Čukarica,44.7408602,20.3896231
+46,Beograd,p," Opština Zvezdara, Cvetkova pijaca, Vojvode Dovezenskog",135000,2.0,halooglasi,2935,"Zvezdara,Cvetkova pijaca- Vojvode Dovezenskog 46m2",Zvezdara,44.793335,20.5035253
+100,Beograd,p," Opština Zemun, Gornji grad, Rade Končara",220000,4.0,halooglasi,2200,Uknjižen dupleks u novoj zgradi ID#123043,Zemun,44.8479528,20.3862555
+51,Beograd,5," Opština Mladenovac, Mladenovac (mesto), Momčila Živojinovića",59000,1.5,halooglasi,1157,Novogradnja  - akcijska ponuda! Bez provizije!,Mladenovac,44.4482268,20.6927141
+54,Beograd,1,"Sremčica, Čukarica opština",95150,3.0,4zida,1762,Beogradska 63,Čukarica,44.6719378,20.3954404
+81,Beograd,2,"Crveni Krst Vračar, Vračar",279449,3.5,4zida,3450,Gročanska,Vračar,44.7952913,20.4776657
+57,Beograd,p," Opština Savski venac, Senjak, Bulevar Vojvode Mišića",125000,2.5,halooglasi,2193,"Senjak, 57m2, VIII, ta",Savski Venac,44.7908613,20.428536
+69,Beograd,p," Opština Novi Beograd, Hotel Jugoslavija, Aleksinačkih rudara",165000,3.0,halooglasi,2391,"Hotel YU, atraktivna lokacija, 69m2 ID#5723",Novi Beograd,44.8272032,20.4195942
+97,Beograd,0," Opština Novi Beograd, Dr Ivana Ribara, Dr Ivana Ribara",145000,3.5,halooglasi,1495,"Novi Beograd, Blok 71 - Dr Ivana Ribara",Novi Beograd,44.8017107,20.3693665
+46,Beograd,3," Opština Zemun, Zelena avenija, Petra Kočića",179888,1.5,halooglasi,3911,"Zelena aven. nov, 1.5s+z.lođa+gar.mesto, namešten",Zemun,44.8378095,20.4040168
+55,Beograd,0.5," Opština Savski venac, Dedinje, Teodora Drajzera",235000,2.0,halooglasi,4273,Dedinje,Savski Venac,44.7782279,20.4583403
+99,Beograd,2," Opština Zvezdara, Veliki Mokri Lug, Petkov Kladenac",128700,3.0,halooglasi,1300,"Duplex, novija gradnja 99m2 ID#7260",Zvezdara,44.764301,20.5214013
+70,Beograd,p," Opština Novi Beograd, Blok 23, ",249500,3.0,halooglasi,3564,Arena - Namešten - Lux,Novi Beograd,44.808295,20.4243536
+126,Beograd,6,"Filmski Grad, Čukarica, Čukarica opština",339000,4.0,4zida,2690,Kneza Viseslava 61,Čukarica,44.7510004,20.4322005
+113,Beograd,4,"Senjak, Savski Venac",389000,3.0,4zida,3442,VASE PELAGICA,Savski Venac,44.79186,20.4349016
+58,Beograd,2,"Kanarevo Brdo, Rakovica opština",122500,2.5,4zida,2112,Petra Konjovića,Rakovica,44.7521754,20.4553526
+96,Beograd,3," Opština Stari grad, Centar, Kraljice Natalije",275000,4.0,halooglasi,2865,"Stari grad, Centar - Kraljice Natalije, 96m2",Stari Grad,44.8140173,20.4576466
+43,Beograd,0.5," Opština Novi Beograd, Blok 70 (kineski tržni centar), Jurija Gagarina",130000,2.0,halooglasi,3023,"Jurija Gagarina, Blok 70, Novi Beograd",Novi Beograd,44.8032415,20.3976042
+76,Beograd,0," Opština Rakovica, Vidikovac, Katarine Holecev",150000,3.0,halooglasi,1974,"Katarine Holecev, Vidikovac, Rakovica ID#1468",Rakovica,44.7420682,20.429487
+60,Beograd,1," Opština Voždovac, Centar, Maksima Gorkog",189900,2.0,halooglasi,3165,Voždovac-Maksima Gorkog-6om2-Uknjižen ID#2535,Voždovac,44.7904315,20.4798765
+55,Beograd,3," Opština Zemun, Altina, Aleksandra Petrovića",105000,3.0,halooglasi,1909,"Altina, Aleksandra Petrovića, 55m2, 3.0 ID#2461",Zemun,44.8536854,20.3490879
+57,Beograd,1," Opština Novi Beograd, Bežanijska kosa 2, Nikole Dobrovića",175000,1.5,halooglasi,3070,Nikole Dobrovića Bežanijska kosa Novi Beograd B...,Novi Beograd,44.8175029,20.3898153
+45,Beograd,1," Opština Zemun, Altina, Ugrinovački put",83380,1.5,halooglasi,1853,"Nova Altina 45m2- novogradnja, uknjižen, lux stan",Zemun,44.8618198,20.3500831
+198,Beograd,3,"Sava Centar, Blok 19 Sava Centar, Novi Beograd",459000,4.0,4zida,2318,Kralja Milana,Novi Beograd,44.8453389,20.3912507
+75,Beograd,6," Opština Novi Beograd, Blok 65, Tadije Sondermajera",371250,3.0,halooglasi,4950,"Wellport, nov, lux opremljen 3.0 stan",Novi Beograd,44.8119886,20.4004257
+111,Beograd,3," Opština Vračar, Čubura, Cara Nikolaja II",410000,4.0,halooglasi,3694,Centar-Vracar ID#1174,Vračar,44.7978899,20.4777229
+57,Beograd,1,"Cvetkova Pijaca, Zvezdara opština",159000,2.0,4zida,2789,Vojvode Dovezenskog,Zvezdara,44.7930434,20.5035003
+86,Beograd,6," Opština Novi Beograd, Stari Merkator, Luja Adamiča",225000,3.0,halooglasi,2616,"Stari Merkator, Luja Adamiča, izuzetan trosoban st",Novi Beograd,44.8289777,20.4125316
+42,Beograd,25," Opština Novi Beograd, Blok 33, Narodnih heroja",145000,1.0,halooglasi,3452,Novi Beograd Genex kula Blok 33  42m2 komp.sredjen,Novi Beograd,44.8210573,20.4057826
+46,Beograd,0.5," Opština Voždovac, Lekino brdo, Veselina Masleše",141000,2.5,halooglasi,3065,"Funkionalan dvoiposoban stan, 46m2, sa namestajem",Voždovac,44.7912181,20.4889192
+37,Beograd,3,"Kalemegdan, Stari Grad opština",164000,1.5,4zida,4432,Tadeuša Košćuška,Stari Grad,44.8234057,20.4503421
+130,Beograd,p," Opština Voždovac, Jajinci, Bulevar JNA",250000,4.0,halooglasi,1923,"Vozdovac, Bulevar JNA, 130m2, Novogradnja",Voždovac,44.7441234,20.4801352
+64,Beograd,0," Opština Palilula, Centar, Cvijiceva",146000,2.5,halooglasi,2281,"Cvijiceva,salonac za renoviranje ID#1035",Palilula,44.8193452,20.4766665
+112,Beograd,0.5," Opština Vračar, Krunski venac, Krunska",435000,6.0,halooglasi,3884,"Retko u ponudi-Krunska,112m2,5.0-odličan,salonski,",Vračar,44.8086769,20.4653485
+52,Beograd,1," Opština Zvezdara, Bulevar kralja Aleksandra, Ustanička",156000,2.0,halooglasi,3000,Lux Novogradnja Konjarnik Ustanička,Zvezdara,44.7848822,20.5176965
+97,Beograd,2," Opština Novi Beograd, Bežanijska kosa 2, Marka Čelebonovića",250000,4.0,halooglasi,2577,"Izvanredan, svetao stan u zelenilu",Novi Beograd,44.8196694,20.381403
+36,Beograd,0," Opština Zemun, Novi grad, Železnička",75000,1.5,halooglasi,2083,"Beograd, Novi grad, Stan, 1.5, 36m2",Zemun,44.8387877,20.3848338
+59,Beograd,2," Opština Zvezdara, Mirijevo, Nine Kirsanove",112100,3.0,halooglasi,1900,"Trosoban stan na prodaju, Mirijevo III",Zvezdara,44.7865022,20.5496797
+90,Beograd,p," Opština Novi Beograd, Blok 33, Bulevar Arsenija Čarnojevića",270000,3.5,halooglasi,3000,"Generalice, Novi Beograd, blok 33, troiposoban sta",Novi Beograd,44.8197559,20.407395
+92,Beograd,0," Opština Čukarica, Cerak vinogradi, Omorika",195000,3.5,halooglasi,2120,Cerak - Vinogradi ID#3773,Čukarica,44.7447844,20.4173697
+56,Beograd,3," Opština Vračar, Čubura, Celjska",210000,2.0,halooglasi,3750,Dvosoban stan u novoj zgradi na Vračaru,Vračar,44.7969023,20.4812823
+46,Beograd,1," Opština Palilula, Višnjica, Nova 114",70000,2.0,halooglasi,1522,"Višnjica, Nova 114 - 46 m2",Palilula,44.8283104,20.5526666
+63,Beograd,2,"Bežanijska kosa, Novi Beograd",176000,2.0,4zida,2794,Magelanova,Novi Beograd,44.8274994,20.3841206
+85,Beograd,p," Opština Stari grad, Centar, Bulevar despota Stefana",330000,4.0,halooglasi,3882,Unikatan stan u istorijskoj zgradi,Stari Grad,44.8166888,20.462125
+95,Beograd,4," Opština Rakovica, Vidikovac, Vidikovački venac",249000,3.5,halooglasi,2621,"Vidikovac, Vidikovački venac, 95m2, 3.5 ID#2489",Rakovica,44.7419996,20.422778
+79,Beograd,1," Opština Rakovica, Centar, Borska",158000,3.0,halooglasi,2000,"Miljakovac, 3.0, 79m2 ID#1579",Rakovica,44.7483641,20.452071
+56,Beograd,5," Opština Zvezdara, Konjarnik, Ustanička",152000,2.5,halooglasi,2714,Konjarnik-Ustanička-Dvoiposoban-Uknjižen ID#2547,Zvezdara,44.782845,20.5063387
+100,Beograd,27," Opština Zvezdara, Konjarnik, Rudo",233000,6.0,halooglasi,2330,Petosoban stan kod Aviv centra  na dva nivoa,Zvezdara,44.78495,20.5139345
+45,Beograd,1," Opština Čukarica, Sremčica, Sare Bernar 51",72000,1.5,halooglasi,1600,"Jednoiposoban stan, Sremcica",Čukarica,44.6941076,20.3816223
+75,Beograd,2," Opština Voždovac, Šumice, Rada Neimara",390000,3.0,halooglasi,5200,"Voždovac, Šumice - Rada Neimara",Voždovac,44.7873582,20.4943185
+60,Beograd,1," Opština Zemun, Gornji grad, Banijska",152400,2.5,halooglasi,2540,"Zemun, Banijska, novogradnja, 60 m2",Zemun,44.8486188,20.3847552
+40,Beograd,1," Opština Čukarica, Sremčica, Dvoržakova",58000,2.0,halooglasi,1450,"Stan 40m2, Sremčica, Dvoržakova",Čukarica,44.6897678,20.3843858
+37,Beograd,0.5," Opština Vračar, Bulevar kralja Aleksandra, Sredačka",130000,1.5,halooglasi,3514,"Vukov spomenik, odličan",Vračar,44.8028032,20.4814948
+79,Beograd,3," Opština Stari grad, Dorćol, Cara Uroša",269000,2.5,halooglasi,3405,"Retko u ponudi, Gornji Dorćol, Cara Uroša 79m2",Stari Grad,44.8207502,20.4545752
+41,Beograd,4," Opština Zvezdara, Mirijevo, Matice srpske",83000,1.0,halooglasi,2024,"Mirijevo, Matice Srpske, 41m2",Zvezdara,44.7897487,20.5241427
+94,Beograd,6,"Medaković 3, Medaković, Voždovac opština",240000,3.5,4zida,2553,Borivoja Stevanovica,Voždovac,44.7764067,20.5019711
+66,Beograd,3," Opština Savski venac, Savski trg - Pristanište, Gavrila Principa",215000,3.0,halooglasi,3258,"Gavrila Principa, Savski trg, Savski venac ID#2240",Savski Venac,44.808438,20.4560239
+47,Beograd,1," Opština Voždovac, Naselje Stepa Stepanović, Vojvode Stepe",134500,2.0,halooglasi,2890,"Square 2, Vojvode Stepe, 46,54m, dvosoban",Voždovac,44.7535137,20.4965791
+58,Beograd,1," Opština Čukarica, Banovo brdo, Požeška",145000,2.0,halooglasi,2500,Banovo brdo-58m2+4m2 lodja,Čukarica,44.7797679,20.4163266
+59,Beograd,1,"Donji Dorćol, Dorćol, Stari Grad opština",340000,2.0,4zida,5763,Venizelosova,Stari Grad,44.8225513,20.4611217
+70,Beograd,1," Opština Zvezdara, Vukov Spomenik, Čelopečka",192000,2.5,halooglasi,2743,Zamena ili prodaja,Zvezdara,44.8057345,20.480541
+50,Beograd,p," Opština Novi Beograd, Ledine, Novobeogradskih graditelja",85000,3.0,halooglasi,1700,"Ledine kod Grand kafe, stan",Novi Beograd,44.7991818,20.3423678
+64,Beograd,1," Opština Zvezdara, Mirijevo, Samjuela Beketa",140000,3.0,halooglasi,2188,Mirijevo Samjuela Beketa 64m2,Zvezdara,44.7899284,20.5419288
+45,Beograd,0," Opština Rakovica, Petlovo brdo, Rasinska",69000,1.5,halooglasi,1533,Uknjižen 1.5 stan - Petlovo brdo ID#3165,Rakovica,44.7220243,20.4282695
+81,Beograd,1," Opština Obrenovac, Rvati, Kralja Milana",110000,3.0,halooglasi,1358,Obrenovac- Rvati 81kvm,Obrenovac,44.6592541,20.2002295
+145,Beograd,12," Opština Savski venac, Beograd na vodi, Hercegovačka",1080000,4.0,halooglasi,7448,Lux stan na kaskadi u BW Residences,Savski Venac,44.8108258,20.4503529
+88,Beograd,5," Opština Zvezdara, Vukov Spomenik, Vojvode Šupljikca",323280,3.0,halooglasi,3674,"Vračar-centar, 88.57m2, V, t-pumpa, novo",Zvezdara,44.804691,20.4833967
+39,Beograd,p," Opština Palilula, Borča, Ratnih Vojnih Invalida",65000,1.5,halooglasi,1667,"Borča, namešten, mereno 51m2+20m2 terasa ID#6262",Palilula,44.8755973,20.453381
+84,Beograd,8,"Lion, Zvezdara opština",238000,3.0,4zida,2833,Bulevar Kralja Aleksandra,Zvezdara,44.7977735,20.4972695
+42,Beograd,p," Opština Zemun, Batajnica, Majora Zorana Radosavljevića",68128,2.0,halooglasi,1622,"Batajnica, 42m2, III, eg, novo",Zemun,44.8866403,20.3146212
+45,Beograd,5," Opština Voždovac, Trošarina, Save Maškovića",160000,1.5,halooglasi,3556,Park vila residence – 1% provizija,Voždovac,44.7613421,20.4825832
+65,Beograd,2,"Crveni Krst Vračar, Vračar",215500,2.5,4zida,3315,Velimira Todorovića,Vračar,44.7973063,20.4841262
+64,Beograd,0.5," Opština Novi Beograd, Blok 45 (TC Enjub), Jurija Gagarina",168000,2.0,halooglasi,2625,Prostran renoviran stan,Novi Beograd,44.798901,20.3790812
+55,Beograd,2,"Autokomanda, Savski Venac",192500,2.5,4zida,3500,Dobropoljska,Savski Venac,44.7897953,20.4666487
+56,Beograd,0," Opština Čukarica, Žarkovo, Prote Milana Smiljanića",112000,3.0,halooglasi,2000,"Žarkovo,Novogradnja,ul.Prote M.Smiljanića,3.0.56m2",Čukarica,44.7577155,20.409136
+29,Beograd,p," Opština Čukarica, Železnik, Milorada Popovića",66000,0.5,halooglasi,2276,Izuzetan apartman sa parkingom,Čukarica,44.7276539,20.3730957
+78,Beograd,3," Opština Rakovica, Labudovo brdo, Generala Zgonjanina",149000,3.0,halooglasi,1910,Uknjižen sređen stan na Labudovom brdu ID#3368,Rakovica,44.7257489,20.4230617
+60,Beograd,4," Opština Novi Beograd, Blok 67 (Belvil), Bulevar Crvene Armije",220000,2.0,halooglasi,3667,"Belville - 2,0 s, 61 m2, uknjižen i useljiv",Novi Beograd,44.8067524,20.4114809
+68,Beograd,3," Opština Vračar, Hram svetog Save, Svetog Save",237000,3.0,halooglasi,3485,"Salonac, Hram Svetog Save",Vračar,44.7980453,20.4691884
+164,Beograd,1," Opština Voždovac, Dušanovac, Tomazeova",295000,6.0,halooglasi,1799,"Tomazeova, Dušanovac, Voždovac ID#1235",Voždovac,44.7863448,20.4795043
+56,Beograd,4,"Mladenovac centar, Mladenovac opština",175100,2.0,4zida,2575,Kralja Petra Prvog 82,Mladenovac,44.4401166,20.6941535
+34,Beograd,2," Opština Vračar, Čubura, Daničareva",136000,2.0,halooglasi,4000,"Vračar, Lux renoviran, uknjižen, može na kredit",Vračar,44.797218,20.4833321
+36,Beograd,0," Opština Stari grad, Gundulićev venac, Žorža Klemansoa",99000,1.5,halooglasi,2750,"Žorža Klemansoa, Gundulićev venac, Stari grad ID#1",Stari Grad,44.8184517,20.470748
+67,Beograd,2," Opština Zemun, Kalvarija, -",213000,3.0,halooglasi,3179,"Zemun, lux, tek završena zgrada, ID 21981",Zemun,44.8380979,20.3969089
+66,Beograd,3," Opština Zemun, Centar, Branka Pešića",177066,3.0,halooglasi,2700,3.0 stan u Zemunu-Branka Pešića ID#2596,Zemun,44.851522,20.3930592
+96,Beograd,3," Opština Novi Beograd, Blok 70 (kineski tržni centar), Jurija Gagarina",235000,4.0,halooglasi,2448,"Novi Beograd, Blok 70, prodaja stana 96m2",Novi Beograd,44.8018082,20.3907613
+43,Beograd,4," Opština Voždovac, Vojvode Stepe",129000,2.0,halooglasi,3000,Extra lux stan u Vojvode Stepe-bez provizije,Voždovac,44.7406123,20.5116559
+66,Beograd,p," Opština Zvezdara, Mirijevo, Dragoslava Srejovića",130000,2.0,halooglasi,1970,"Dragoslava Srejovića, Karaburma, Zvezdara ID#2027",Zvezdara,44.800518,20.5247063
+23,Beograd,0," Opština Stari grad, Knez Mihailova, Cara Lazara",118000,1.0,halooglasi,5130,"Pešačka zona, Cara Lazara, 23m2+16m2 ID#6887",Stari Grad,44.8163974,20.4586097
+84,Beograd,1," Opština Voždovac, Banjica, Crnotravska",173000,3.0,halooglasi,2060,"Voždovac, Crnotravska, 84m2, 3.0",Voždovac,44.7691287,20.4666281
+80,Beograd,6," Opština Zvezdara, Lipov lad, Vranjska",219000,3.0,halooglasi,2738,"Lipov Lad, 80M2, Beograd - Zvezdara, Vranjska",Zvezdara,44.7963721,20.4945158
+27,Beograd,0," Opština Čukarica, Cerak, Sandžačka",56700,1.5,halooglasi,2100,"1.5 Cerak, Sandžačka, 27, pr, TA",Čukarica,44.7543718,20.4186399
+47,Beograd,0.5," Opština Palilula, Borča, Milana Toplice",80000,2.0,halooglasi,1702,"2.0 stan u Borči, Milana Toplice ID#2668",Palilula,44.8823944,20.4564186
+39,Beograd,5," Opština Zvezdara, Bulbulder, Ledinačka",119000,2.0,halooglasi,3051,"Prodaje se stan,Zvezdara ID#1440",Zvezdara,44.802513,20.4934496
+89,Beograd,6," Opština Novi Beograd, Blok 19a, Vladimira Popovića",250000,4.5,halooglasi,2809,"Odličan 4.5 stan, Vladimira Popovića, 89m2 ID#1219",Novi Beograd,44.8064096,20.4296124
+27,Beograd,2," Opština Zvezdara, Olimp, Milana Rakića",125000,0.5,halooglasi,4630,Svetao stan sa prelepim pogledom ID#128343,Zvezdara,44.7937573,20.5097749
+72,Beograd,3," Opština Zvezdara, Mirijevo, Petrarkina",158400,3.0,halooglasi,2200,"Petrarkina, renoviran, trosoban",Zvezdara,44.7905994,20.5323766
+141,Beograd,0," Opština Savski venac, Beograd na vodi, Scala",594000,3.0,halooglasi,4213,"BW Scala, lux, neuseljavan, bašta, ID 21651",Savski Venac,44.8020292,20.4492791
+52,Beograd,p," Opština Palilula, Karaburma, Juhorska",124000,2.5,halooglasi,2385,"Beograd Karaburma stan 2.5, 52m2",Palilula,44.8139625,20.512591
+81,Beograd,8," Opština Novi Beograd, Blok 64, Gandijeva",169999,3.0,halooglasi,2099,"Gandijeva, Blok 64, Novi Beograd ID#2205",Novi Beograd,44.7964685,20.3901326
+65,Beograd,5,"Siva Stena, Voždovac opština",191000,3.0,4zida,2938,Rajka Mitića,Voždovac,44.7762272,20.486346
+18,Beograd,0," Opština Čukarica, Cerak, Kadinjača",53000,0.5,halooglasi,2944,"Cerak, Kadinjača, 18m2 uknjiženo, mereno 31m2",Čukarica,44.7478914,20.4199604
+60,Beograd,6," Opština Novi Beograd, Blok 70a, Omladinskih brigada",170000,2.0,halooglasi,2833,"Blok70a,Omladinskih brigada,60m2,adaptibilan u 2.5",Novi Beograd,44.800882,20.4013412
+60,Beograd,2," Opština Čukarica, Čukarička padina, ",160000,2.5,halooglasi,2667,"Čukarička padina, Ada, 60m2, 2.5 - odličan",Čukarica,44.7779587,20.4071484
+64,Beograd,1," Opština Novi Beograd, Blok 62, Jurija Gagarina",193900,2.5,halooglasi,3030,"Blok 62, sređen, namešten stan ID#1143",Novi Beograd,44.8022665,20.3826732
+67,Beograd,5," Opština Stari grad, Centar, Hilandarska",260000,2.0,halooglasi,3881,"Stari grad, Centar - Hilandarska",Stari Grad,44.8152269,20.4678811
+64,Beograd,1," Opština Čukarica, Cerak vinogradi, Kestenova",131500,2.0,halooglasi,2055,"Cerak vinogradi 64m2, 2.0 sa zastakljenom terasom",Čukarica,44.7483686,20.4240191
+45,Beograd,0," Opština Zemun, Pregrevica, Kovača Jovana Petrovića",84000,1.5,halooglasi,1867,Pregrevica renoviran 1.5 45m2 PR parking useljiv u,Zemun,44.8590984,20.3823163
+43,Beograd,p," Opština Obrenovac, Obrenovac (mesto), Kralja Aleksandra I",64636,1.5,halooglasi,1503,Jednoiposoban stan u izgradnji 43.38m2 u Obrenovac,Obrenovac,44.6550076,20.1946168
+57,Beograd,5," Opština Zvezdara, Đeram pijaca, Bulevar Kralja Aleksandra",160000,2.5,halooglasi,2807,"Đeram pijaca, Bulevar kralja Aleksandra, 57+3 m2",Zvezdara,44.8009801,20.4861572
+86,Beograd,8," Opština Novi Beograd, Blok 63, Nehruova",188000,3.0,halooglasi,2186,"Blok 63, 3.0 sa garažom 86+14m2",Novi Beograd,44.7979052,20.3817662
+60,Beograd,1," Opština Rakovica, Centar, Pilota Mihaila Petrovića",107000,2.5,halooglasi,1783,"RAKOVICA, Odličan organizovan stan",Rakovica,44.7412334,20.4153084
+46,Beograd,4," Opština Vračar, Krunski venac, Desanke Maksimović",235000,2.0,halooglasi,5109,"Vračar, Krunski venac - Desanke Maksimović 46m2",Vračar,44.8074228,20.4702957
+65,Beograd,p," Opština Savski venac, Dedinje, Rajka Mitića",191000,2.5,halooglasi,2938,"Savski Venac, Dedinje - Rajka Mitića 65m2",Savski Venac,44.77951,20.4657391
+66,Beograd,0," Opština Voždovac, Lekino brdo, Garibaldijeva-Voždovac",149000,1.0,halooglasi,2258,"Lekino brdo, 66m2, pr, eg",Voždovac,44.7911131,20.4838525
+80,Beograd,6," Opština Stari grad, Dorćol, Visokog Stevana",260000,3.0,halooglasi,3250,Odličan stan u srcu Dorćola ID#1504,Stari Grad,44.8251292,20.4599644
+40,Beograd,2," Opština Novi Beograd, Ledine, Belfortska",97500,2.0,halooglasi,2438,"Ledine, 39,51m2, novogradnja, lux ID#1396",Novi Beograd,44.8081739,20.3527991
+116,Beograd,3," Opština Vračar, Bulevar kralja Aleksandra, Bulevar kralja Aleksandra",267000,4.0,halooglasi,2302,Vračar dupleks kod Vuka,Vračar,44.8040321,20.4789264
+99,Beograd,3," Opština Stari grad, Dorćol, Budimska",400000,3.0,halooglasi,4040,"Dorćol, Budimska, mereno 114m2 ID#6738",Stari Grad,44.8237456,20.4615253
+51,Beograd,0.5," Opština Stari grad, 25. maj, Tadeuša Košćuška",195000,2.0,halooglasi,3824,Retko u ponudi! Stan na 25. Maju,Stari Grad,44.8283641,20.4480587
+31,Beograd,0,"Crveni Krst Zvezdara, Zvezdara opština",95000,2.0,4zida,3065,Branka Krsmanovića,Zvezdara,44.8033699,20.4813571
+48,Beograd,1," Opština Palilula, Karaburma, Stevana Dukića",110000,2.5,halooglasi,2292,"Karaburma, Stevana Dukića, 48m2, 1/5",Palilula,44.8139772,20.5170005
+122,Beograd,3,"Kalenić, Vračar",500000,4.0,4zida,4098,Baba Višnjina,Vračar,44.801789,20.4747705
+83,Beograd,3," Opština Stari grad, Bajlonijeva pijaca, Drinčićeva",245000,3.5,halooglasi,2952,"Odličan salonac, Stari grad, Drinčićeva, 83 m2",Stari Grad,44.8187791,20.4674893
+73,Beograd,16," Opština Novi Beograd, Blok 23, Bulevar Milutina Milankovića",187000,3.5,halooglasi,2562,Blok 23 Milutina Milankovića,Novi Beograd,44.8068509,20.4230664
+130,Beograd,1," Opština Stari grad, Centar, ",546000,4.0,halooglasi,4200,"ID#35889, Prodaja, Stan, Centar, 130 m2",Stari Grad,44.8197458,20.4601508
+42,Beograd,1," Opština Zvezdara, Mirijevo, Koste Nađa",99000,2.0,halooglasi,2357,Lux renoviran 2.0 stan u lepom delu Mirijeva ID#12,Zvezdara,44.795145,20.5354882
+42,Beograd,2," Opština Rakovica, Labudovo brdo, Serdara Janka Vukotića",95000,2.5,halooglasi,2262,"Labudovo brdo, Serdar Janka Vukotića, odličan",Rakovica,44.7276027,20.4262327
+33,Beograd,p," Opština Palilula, Kotež, Dr Dragiše Mišovića",58500,1.0,halooglasi,1773,"Dr. Dragiše Mišovića, Kotež, Palilula ID#2044",Palilula,44.8494137,20.4734907
+105,Beograd,2," Opština Savski venac, Stadion Partizana, Dobropoljska",295000,3.0,halooglasi,2810,"Snižena cena, nova zgrada uknjižen useljiv miran",Savski Venac,44.7887581,20.4590917
+95,Beograd,2," Opština Palilula, Palilulska pijaca, ",390000,3.0,halooglasi,4105,Lux 3.0 stan u centru,Palilula,44.810413,20.474501
+104,Beograd,2,"Humska, Savski Venac",295000,3.5,4zida,2837,Dobropoljska,Savski Venac,44.7603702,20.5447472
+43,Beograd,3,"Altina, Zemun, Zemun opština",77400,1.5,4zida,1800,Ugrinovački put,Zemun,44.8609254,20.3519745
+74,Beograd,1," Opština Zvezdara, Bulevar kralja Aleksandra, Bulevard kralja Aleksandra 515",113000,2.0,halooglasi,1527,Novogradnja na Bulevaru kralja Aleksandra 515,Zvezdara,44.7982864,20.4923492
+27,Beograd,4," Opština Zvezdara, Vukov Spomenik, Zahumska",89100,1.5,halooglasi,3300,"Vukov spomenik, mereno 33m2 ID#5086",Zvezdara,44.8025879,20.4842542
+76,Beograd,p," Opština Čukarica, Železnik, Svete Milutinovića",121600,3.0,halooglasi,1600,"Svete Milutinovića, Železnik, Čukarica ID#1292",Čukarica,44.7201856,20.3789082
+57,Beograd,p," Opština Čukarica, Cerak vinogradi, Crvenih hrastova",131000,2.0,halooglasi,2298,"Uknjižen, blizu škole, lep pogled ka zapadu",Čukarica,44.7448041,20.4200545
+53,Beograd,11," Opština Rakovica, Vidikovac, Vidikovački venac",97000,1.5,halooglasi,1830,"Vidikovac, 53m2, 1.5",Rakovica,44.7416841,20.420188
+62,Beograd,0," Opština Savski venac, Kneza Miloša, Kneza Miloša",195000,2.0,halooglasi,3145,2.0 Savski venac - Kneza Miloša 62m2 195.000EUR,Savski Venac,44.8015886,20.4553086
+115,Beograd,3," Opština Novi Beograd, Ledine, Oplenačka",224250,5.0,halooglasi,1950,Lux penthaus sa najlepšim pogledom na Expo...,Novi Beograd,44.8020848,20.3484997
+89,Beograd,4," Opština Novi Beograd, Bežanijska kosa 1, Nikole Dobrovića",270000,3.5,halooglasi,3034,"Bež. Kosa, Nikole Dobrovića IVsp,CG, 102m2 duplex",Novi Beograd,44.8164273,20.3897246
+51,Beograd,p," Opština Voždovac, Lekino brdo, Varvarinska",135000,2.0,halooglasi,2647,Fenomenalan Stan Lekino Brdo  51m2 2.0 Parking,Voždovac,44.7886518,20.4855784
+48,Beograd,5,"Vojvode Stepe, Voždovac opština",133265,2.0,4zida,2776,Kumodraška 151,Voždovac,44.7609759,20.4848852
+85,Beograd,1," Opština Zemun, Batajnica, Žarka Bokuna",125000,4.0,halooglasi,1471,"Batajnica, Žarka Bokuna, 85m2 ID#7234",Zemun,44.8978086,20.2876366
+44,Beograd,0," Opština Rakovica, Miljakovac, Miljakovačke staze",75000,1.5,halooglasi,1705,Na prodaju jednoiposoban stan od 44m2 u prelepom,Rakovica,44.7399336,20.4631825
+58,Beograd,9," Opština Novi Beograd, Blok 4 (Politehnička akademija), Pariske komune",150000,2.0,halooglasi,2586,Adaptibilan u 3.0 soban- Novi PVC prozori ID#50665,Novi Beograd,44.8281914,20.4021366
+84,Beograd,p," Opština Zemun, Prvomajska, -",168000,3.0,halooglasi,2000,"Zemun, Prvomajska, Šilerova",Zemun,44.8431423,20.3784599
+56,Beograd,0," Opština Rakovica, Petlovo brdo, Generala Zgonjanina",130000,4.0,halooglasi,2321,Petlovo brdo -56m2 uknjiženo - mereno 75m2,Rakovica,44.7246632,20.4242124
+90,Beograd,p," Opština Zvezdara, Mirijevo, Raše Plaovića",180000,4.0,halooglasi,2000,"Mirijevo, Raše Plaovića, 90m2 ID#51461",Zvezdara,44.7916659,20.538034
+53,Beograd,0.5," Opština Čukarica, Golf, Petra Martinovića",197000,2.0,halooglasi,3717,"Golf naselje, Petra Martinovica",Čukarica,44.7755534,20.4192866
+63,Beograd,2," Opština Obrenovac, Obrenovac (mesto)",95000,2.0,halooglasi,1508,"Dvosoban stan 63m2 -2.sprat, Centar Obrenovca",Obrenovac,44.654833,20.2014318
+81,Beograd,3," Opština Zvezdara, Mirijevo, Ulofa Palmea",169000,3.0,halooglasi,2086,Mirijevo Ulofa Palmea 81m2,Zvezdara,44.7907766,20.5383365
+51,Beograd,3," Opština Zemun, Altina, Ugrinovački put 33 deo ",82500,2.5,halooglasi,1640,"STAN 50m2,dnevna+2 spavaće sobe, useljivo-ALTINA",Zemun,44.859026,20.3489889
+83,Beograd,p," Opština Rakovica, Stari Košutnjak, Milana Blagojevića Španca",195000,3.0,halooglasi,2349,"Stari Košutnjak, stan u podnožju Dedinja-Lisičiji",Rakovica,44.7582646,20.4503478
+42,Beograd,1," Opština Rakovica, Miljakovac, Nikole Marakovića",95000,1.5,halooglasi,2262,Uknjižen stan na Miljakovcu ID#3406,Rakovica,44.7461808,20.461839
+94,Beograd,1," Opština Zvezdara, Lion, Kulina Bana",248000,4.0,halooglasi,2638,"Lion, 4.0, 94m2, Duplex, Kulina Bana",Zvezdara,44.7980504,20.4955258
+94,Beograd,2," Opština Zvezdara, Vukov Spomenik, Bulevar Kralja Aleksandra",394500,3.0,halooglasi,4197,"Landmark Residence, PDV uključen, bez provizije ID",Zvezdara,44.7995026,20.4897949
+49,Beograd,p," Opština Zemun, Donji grad, Kneza Pavla Karađorđevića",162000,2.5,halooglasi,3306,"Kneza Pavla Karađorđevića, Donji grad, Zemun",Zemun,44.8427234,20.4121966
+60,Beograd,3," Opština Vračar, Karađorđev park, ",269000,2.0,halooglasi,4483,Luxuzan dvosoban stan u Nebojšinoj ulici,Vračar,44.7938465,20.4660021
+61,Beograd,p," Opština Rakovica, Stari Košutnjak, Hasanaginice",134200,2.5,halooglasi,2200,"Stari Košutnjak, 2.5s.",Rakovica,44.7576224,20.4554315
+78,Beograd,5," Opština Stari grad, Dorćol, Tadeuša Košćuška",260000,3.5,halooglasi,3333,"Dorcol 3,5 78+2L(12m2) 5/6 cg lift 2 m,cvora uknji",Stari Grad,44.8293965,20.4605009
+77,Beograd,1," Opština Voždovac, Konjarnik, Mis Irbijeve",250000,3.0,halooglasi,3247,Mis Irbijeva-Novogradnja-77m2,Voždovac,44.7828069,20.4966631
+57,Beograd,0," Opština Vračar, Neimar, Kornelija Stankovića",140000,3.0,halooglasi,2456,Стан у мирном делу Врачара,Vračar,44.793076,20.4700311
+92,Beograd,5," Opština Novi Beograd, Arena, Bulevar Arsenija Čarnojevića",315000,3.0,halooglasi,3424,"Blok 29 blizina Arene, renoviran, 92(L), useljiv",Novi Beograd,44.8144173,20.4158096
+37,Beograd,11,"Gradska Bolnica, Zvezdara opština",117000,1.5,4zida,3162,Ucitelja Milosa Jankovica,Zvezdara,44.8005943,20.4996674
+64,Beograd,2," Opština Stari grad, London, Kralja Milana",215000,2.0,halooglasi,3359,"Prodaje se 2.0-32kv+32kv-galerija,Kod Londona",Stari Grad,44.8097393,20.4627381
+68,Beograd,3," Opština Zemun, Save Kovačevića, Mića Radakovića",144000,2.5,halooglasi,2118,"Sava Kovačević, Mića Radakovića, 68m2, 2.5",Zemun,44.8438841,20.3944657
+51,Beograd,1," Opština Rakovica, Petlovo brdo, Nićifora Ninkovića",92000,2.5,halooglasi,1804,"Petlovo brdo, Nićifora Ninkovića , 51m2+3m2T",Rakovica,44.71995,20.420089
+27,Beograd,0.5," Opština Novi Beograd, Blok 19a, Milentija Popovića",80000,1.0,halooglasi,2963,"Milentija Popovića, Blok 19A, Novi Beograd ID#1967",Novi Beograd,44.8100831,20.4299723
+70,Beograd,0," Opština Novi Beograd, Blok 60, Zemunska",95000,4.0,halooglasi,1357,Zemunska 70m2,Novi Beograd,44.8106717,20.3832517
+121,Beograd,3," Opština Čukarica, Banovo brdo, Požeška",545000,4.0,halooglasi,4504,"4.0, Požeška, Lux, 121m2, garaža",Čukarica,44.7765818,20.4138735
+52,Beograd,p," Opština Obrenovac, Obrenovac (mesto), Topolice",80080,2.0,halooglasi,1540,Stan u izgradnji 52m2 u Obrenovcu,Obrenovac,44.6564412,20.2097839
+84,Beograd,p," Opština Stari grad, Kopitareva gradina, Vlajkovićeva",230000,3.0,halooglasi,2738,Kopitareva gradina ID#1264,Stari Grad,44.8160556,20.4677912
+76,Beograd,p," Opština Čukarica, Žarkovo, Mihajla Valtrovića",200000,2.5,halooglasi,2632,"Mihajla Valtrovića, Žarkovo, Čukarica",Čukarica,44.7601595,20.4080322
+50,Beograd,p," Opština Savski venac, Dedinje, Miloja Đaka",199840,2.0,halooglasi,4000,Novogradnja na Dedinju - bez provizije za kupca,Savski Venac,44.7663961,20.4574947
+44,Beograd,2," Opština Zemun, Altina, Ugrinovački put",63000,1.0,halooglasi,1432,Stan u Zemunu (Altina),Zemun,44.8559499,20.3549215
+89,Beograd,1," Opština Novi Beograd, Sava centar, Vladimira Popovića",229000,3.5,halooglasi,2573,"Sava centar - Vladimira Popovića, 89m2",Novi Beograd,44.7955629,20.3817009
+78,Beograd,3," Opština Vračar, Čubura, Cara Nikolaja II",273000,3.5,halooglasi,3500,Top novogradnja Panorama Vračara 78 m2 ID#1010,Vračar,44.7980763,20.482118
+88,Beograd,p," Opština Stari grad, Atelje 212, Svetogorska",255000,3.0,halooglasi,2898,"Stari grad, Atelje 212 - Svetogorska 88m2",Stari Grad,44.8143518,20.4681682
+92,Beograd,6," Opština Vračar, Maksima Gorkog, Sime Igumanova",220000,3.5,halooglasi,2391,Vračar ekstra stan retko u ponudi !,Vračar,44.7973595,20.4770566
+84,Beograd,1," Opština Savski venac, Senjak, Kuršumlijska",390000,3.0,halooglasi,4643,"Savski venac, Senjak - Kuršumlijska",Savski Venac,44.7946495,20.4454657
+55,Beograd,15," Opština Savski venac, Beograd na vodi, BE Eden",269888,2.0,halooglasi,4907,BW Eden - bez provizije za kupce!,Savski Venac,44.8080912,20.4519857
+72,Beograd,1,"Žarkovo, Čukarica, Čukarica opština",145000,3.0,4zida,2014,Braće Škerovića,Čukarica,44.7650945,20.4126853
+48,Beograd,8," Opština Zvezdara, Mirijevo, 16. oktobra",94000,1.5,halooglasi,1958,"Šesnaestog oktobra, 48m2,1.5,8/11, uknjižen ID#149",Zvezdara,44.7864096,20.5308346
+41,Beograd,0," Opština Savski venac, Prokop, Zvečanska",120000,1.5,halooglasi,2927,Zvečanska 41m2 renoviran!,Savski Venac,44.7935531,20.4536119
+87,Beograd,4,"Kalvarija, Zemun, Zemun opština",227118,4.0,4zida,2585,Marije Bursac 42,Zemun,44.8387527,20.3953987
+45,Beograd,p," Opština Čukarica, Rušanj, Oslobođenja 1. deo",36000,2.5,halooglasi,800,Rušanj - Oslobođenja 1 deo ID#1630,Čukarica,44.6868448,20.4372126
+63,Beograd,2," Opština Grocka, Kaluđerica, Vojvode Stepe Stepanovića",103372,3.0,halooglasi,1650,"3.0, Kaluđerica, Vojvode Stepe Stepanovića, 62,65m",Grocka,44.7492435,20.5583957
+37,Beograd,p," Opština Zemun, Altina, Ugrinovački put 10. deo",54500,1.5,halooglasi,1473,"Altina, Ugrinovački put 10.deo, stan 37m2",Zemun,44.854513,20.3556472
+32,Beograd,0.5," Opština Vračar, Slavija, Kneginje Zorke",125000,1.0,halooglasi,3906,"Slavija, Kneginje Zorke, 1.0, 32m2, vpr/4, EG",Vračar,44.8026789,20.4660481
+48,Beograd,1,"Kneževac, Vidikovac, Rakovica opština",79500,1.5,4zida,1656,Slavka Rodića,Rakovica,44.7364157,20.4278284
+125,Beograd,1,"Donji Grad, Zemun, Zemun opština",400000,3.0,4zida,3200,GUNDULIĆEVA 10,Zemun,44.8438393,20.4135997
+27,Beograd,p," Opština Voždovac, Jajinci, Umetnička 1. prilaz",53000,1.0,halooglasi,2000,Sunny Hill Jajinci - Stambeni kompleks u izgradnji,Voždovac,44.7384554,20.4892184
+54,Beograd,2," Opština Rakovica, Centar, Marička",96000,2.0,halooglasi,1778,"Rakovica-Marička 2.0(2.5), 54m2, cg, II/4, useljiv",Rakovica,44.7444907,20.4361841
+50,Beograd,2," Opština Savski venac, Beograđanka",189000,2.0,halooglasi,3780,Fantastičan lux dvosoban stan u prelepoj zgradi,Savski Venac,44.8062011,20.4638081
+89,Beograd,p," Opština Zvezdara, Mirijevo, Vjekoslava Afrića",135000,4.0,halooglasi,1517,"Vjekoslava Afrića, Mirijevo, Zvzedara",Zvezdara,44.7916293,20.5394749
+120,Beograd,8," Opština Novi Beograd, Blok 38, Bulevar Arsenija Čarnojevića",349000,4.0,halooglasi,2908,"Blok 38, 120m2, VIII, cg",Novi Beograd,44.8191331,20.4042765
+89,Beograd,1," Opština Novi Beograd, Blok 24 (Super Vero), Bulevar Milutina Milankovića",315000,4.0,halooglasi,3539,"Blok 24, 89m2, 4.0",Novi Beograd,44.8116524,20.41182
+82,Beograd,4," Opština Novi Beograd, Bežanijska kosa 2, Peđe Milosavljevića",201000,3.0,halooglasi,2451,"B. Kosa 2, 3.0 CG 82m2, Lift 4/6, Terasa i Lođa, u",Novi Beograd,44.8171165,20.3776474
+42,Beograd,0," Opština Zvezdara, Dimitrija Tucovića, Dimitrija Katića",79000,2.0,halooglasi,1881,"Zvezdara, Dimitrija Katića, odmah useljiv, uknj..",Zvezdara,44.800629,20.495858
+83,Beograd,0," Opština Zemun, Novi grad, Hercegovačka",137000,3.0,halooglasi,1651,"Hercegovačka, Novi grad, Zemun",Zemun,44.8386092,20.383631
+74,Beograd,3," Opština Palilula, Hadžipopovac, Zdravka Čelara",207000,3.0,halooglasi,2797,"Profesorska kolonija, 74m2, III, ta/cg",Palilula,44.8155752,20.4825939
+83,Beograd,3," Opština Rakovica, Miljakovac, Osme Crnogorske Brigade",145000,4.0,halooglasi,1747,Miljakovac kod pošte uknjižen duplex ID#1114,Rakovica,44.7425558,20.4552665
+44,Beograd,p," Opština Zemun, Altina, Pala Vujisića",57500,1.5,halooglasi,1307,"Beograd, Altina, Pavla Vujisića",Zemun,44.8536253,20.3541567
+58,Beograd,4," Opština Čukarica, Čukarička padina, Radnička",129000,2.0,halooglasi,2224,Cukaricka padina 2.0 58+2L 4/7 cg lift uknjizen,Čukarica,44.7749025,20.4071031
+95,Beograd,4," Opština Čukarica, Čukarička padina, Obalskih radnika",249000,3.5,halooglasi,2621,"Obalskih radnika, 3.5, 95m2, cg, IV/7, uknj.",Čukarica,44.7766678,20.4049751
+52,Beograd,2," Opština Zvezdara, Mirijevo, Vitezova Karađorđeve zvezde",108500,2.0,halooglasi,2087,"Mirijevo, VKZ, 2.0, nov, lux, useljiv",Zvezdara,44.791601,20.5222169
+42,Beograd,0.5," Opština Grocka, Kaluđerica, Svetislava Ristića",66200,2.0,halooglasi,1599,"Kaluđerica Novo 41m2 2,0 uknjižen 1/1 odmah uselji",Grocka,44.7511696,20.5602761
+50,Beograd,p," Opština Novi Beograd, Stara Bežanija, Pere Segedinca",102000,2.5,halooglasi,2040,"Beograd, Stara Bežanija, Pere Segedinca",Novi Beograd,44.8087382,20.3768503
+56,Beograd,5," Opština Voždovac, Šumice, Ustanička",147000,2.5,halooglasi,2625,"Ustanička, Šumice, Voždovac ID#2106",Voždovac,44.783864,20.4976678
+68,Beograd,p," Opština Palilula, Hala Pionir, Miše Vujića",250000,3.0,halooglasi,3676,"Palilula, Hala Pionir - Miše Vujića 68m2",Palilula,44.8155267,20.4850396
+88,Beograd,1," Opština Stari grad, Centar, Balkanska",245000,4.0,halooglasi,2784,"Stari grad, Centar - Balkanska, 88m2",Stari Grad,44.8119019,20.4604044
+122,Beograd,6,"Skadarlija, Beograd centar, Stari Grad opština",366000,8.0,4zida,3000,Džordža Vašingtona-Stari grad,Stari Grad,44.8167895,20.4596454
+21,Beograd,0,"Mirijevo IV, Mirijevo, Zvezdara opština",36900,0.5,4zida,1757,Milića od Mačve,Zvezdara,44.789945,20.5424776
+40,Beograd,p," Opština Palilula, Višnjička Banja, Višnjički venac",82000,1.5,halooglasi,2050,Odmah useljiv - Uknjižen - Višnjička Banja,Palilula,44.8165266,20.5329031
+73,Beograd,0.5," Opština Savski venac, Senjak, Ruska",159000,2.5,halooglasi,2178,"Ruska, Senjak, Savski Venac ID#1376",Savski Venac,44.794284,20.4372125
+88,Beograd,0.5," Opština Savski venac, Dedinje, Milana Blagojevića Španca",349000,4.0,halooglasi,3966,Kod Belog dvora četvorosoban stan sa garažom,Savski Venac,44.7585095,20.455945
+65,Beograd,2," Opština Voždovac, Šumice, Bakićeva",182000,3.0,halooglasi,2800,"Prodaja trosobnog stana, Šumice, 65m2",Voždovac,44.7892753,20.4916474
+79,Beograd,p," Opština Grocka, Kaluđerica, Zage Malivuk",106650,3.0,halooglasi,1350,Kaludjerica 3.0 sa lepim pogledom i parking mestom,Grocka,44.7536234,20.5520756
+99,Beograd,5," Opština Rakovica, Miljakovac, Stevana Opačića",142000,3.5,halooglasi,1434,Komforan 3.5 stan - 1434 eur/m2 ID#3407,Rakovica,44.7465524,20.454582
+27,Beograd,4," Opština Stari grad, Skadarlija, Skadarska",110000,1.0,halooglasi,4074,"Skadarlija, bez ulaganja",Stari Grad,44.8180993,20.4647579
+23,Beograd,0," Opština Savski venac, Dedinje, Miće Orlovića",87633,1.0,halooglasi,3900,Odlična investicija,Savski Venac,44.7623187,20.45911
+39,Beograd,1,"Medaković 2, Medaković, Voždovac opština",95000,1.0,4zida,2436,Radovana Simića Cige,Voždovac,44.7744304,20.4994217
+43,Beograd,0," Opština Voždovac, Medaković 3, Borivoja Stevanovića",104000,2.0,halooglasi,2419,"Voždovac, Medaković 3, Borivoja Stevanovića, 43m2",Voždovac,44.7737876,20.5090577
+86,Beograd,6,"Blok 11c - Stari Merkator, Blok 11, Novi Beograd",225000,3.0,4zida,2616,Luja Adamiča,Novi Beograd,44.8294756,20.4153462
+103,Beograd,2," Opština Zemun, Retenzija, Bulevar Mihaila Pupina",290000,3.5,halooglasi,2816,"Retenzija, 103m2, II, cg",Zemun,44.8342207,20.4104996
+90,Beograd,p," Opština Čukarica, Filmski grad, Miloja Zakića",180000,2.5,halooglasi,2000,"Dvoiposoban dupleks na prodaju, Filmski Grad",Čukarica,44.7509629,20.4315072
+95,Beograd,9," Opština Novi Beograd, Blok 67 (Belvil), Đorđa Stanojevića",419000,3.5,halooglasi,4411,"Belville, 95m2, lux sa garažnim mestom ID#49700",Novi Beograd,44.8093328,20.4019809
+33,Beograd,0," Opština Voždovac, Vojvode Vlahovića, Vojvode Vlahovića",65000,1.0,halooglasi,1970,"U novijoj zgradi kod Shop Go-a,jednosoban stan ID#",Voždovac,44.7635354,20.5001031
+140,Beograd,0," Opština Zvezdara, Veliki Mokri Lug, Vojvode Vlahovića",188000,3.5,halooglasi,1343,"Moderan stan na Vojvode Vlahovica, Zvezdara",Zvezdara,44.7599564,20.5066447
+46,Beograd,0," Opština Zemun, Plavi horizonti, Konstantina Jovanovića ",70000,2.0,halooglasi,1522,"Uknjižen,dvosoban,46m2+terasa18m2-Plavi horizonti",Zemun,44.849432,20.3434265
+70,Beograd,2," Opština Voždovac, Autokomanda, Bulevar oslobođenja",290000,3.0,halooglasi,4143,Voždovac - Bulevar oslobođenja 70m2,Voždovac,44.7883349,20.4660836
+68,Beograd,4," Opština Novi Beograd, Bežanijska kosa 2, Vespučijeva",156000,2.5,halooglasi,2294,"Hitna prodaja, komforan stan u vojnim zgradama na",Novi Beograd,44.8087667,20.3633791
+46,Beograd,0.5," Opština Zemun, Zemun polje, Braće Krnješevac",68500,1.5,halooglasi,1489,"Zemun, Zemun polje",Zemun,44.8693371,20.3231297
+83,Beograd,p," Opština Zemun, Kalvarija, Prvomajska",217000,3.0,halooglasi,2614,"Prvomajska, novogradnja 83.43m2 ID#7036",Zemun,44.841274,20.3904882
+87,Beograd,p," Opština Voždovac, Lekino brdo, Strumička",308850,3.5,halooglasi,3550,"Strumička br.72, Park view, 87m2",Voždovac,44.7891936,20.4811766
+85,Beograd,2," Opština Novi Beograd, Blok 67a (A blok), Uroša Martinovića",355500,3.0,halooglasi,4182,"Savada, lux, novogradnja, garaža, ID 21138",Novi Beograd,44.8059399,20.4022391
+91,Beograd,p," Opština Obrenovac, Rvati, Dr Arčibalda Rajsa",78000,3.0,halooglasi,857,HITNO! Lep dupleks u naselju Rvati - TOP ponuda,Obrenovac,44.6546771,20.193447
+74,Beograd,1," Opština Novi Beograd, Fontana, Narodnih heroja",209000,2.5,halooglasi,2824,"Fontana, Narodnih heroja, 74m2(lođa), 2.5 ID#2451",Novi Beograd,44.8217669,20.404923
+50,Beograd,p," Opština Voždovac, Konjarnik, Vladimira Tomanovića",112000,2.0,halooglasi,2240,"Vladimira Tomanovića,  uknjižen, useljiv ID#815703",Voždovac,44.7812119,20.501619
+58,Beograd,3," Opština Čukarica, Banovo brdo, Šumadijski trg",169900,3.0,halooglasi,2929,Banovo brdo-Šumadijski trg,Čukarica,44.7817729,20.4162386
+52,Beograd,1," Opština Zemun, Gornji grad, Alaska",122200,2.5,halooglasi,2350,“Alaska” oaza mira  dvoiposoban stan,Zemun,44.8512016,20.3880815
+120,Beograd,5,"Banovo Brdo, Čukarica, Čukarica opština",315000,3.0,4zida,2625,Nodilova,Čukarica,44.7863868,20.4149204
+60,Beograd,2," Opština Čukarica, Sremčica, Porodice Milošević",67000,2.0,halooglasi,1117,Prodajem dvosoban stan u Sremčici,Čukarica,44.6849907,20.385754
+66,Beograd,p," Opština Grocka, Vinča, Krajinska",63000,2.0,halooglasi,955,"Prodaja stanova, Vinča",Grocka,44.7499625,20.6087615
+60,Beograd,1,"Rakovica, Rakovica opština",107000,3.0,4zida,1783,Pilota Mihaila Petrovića,Rakovica,44.7466503,20.4429542
+154,Beograd,0," Opština Zvezdara, Zeleno brdo, Majke Angeline",215500,1.0,halooglasi,1399,"1.0, Kluz, uknjižen, 154m2, vpr/4, parking",Zvezdara,44.7877203,20.5195471
+83,Beograd,2," Opština Novi Beograd, Blok 65, Bulevar heroja sa Košara",295000,3.0,halooglasi,3554,Blok 65 Bulevar heroja sa Košara 83m2,Novi Beograd,44.8147232,20.3986105
+41,Beograd,0.5," Opština Čukarica, Sremčica, Dvoržakova",59000,2.0,halooglasi,1439,"Sremčica Dvoržakova,2.0, 41m2,vpr, ta, uknj,59.000",Čukarica,44.6901435,20.3859052
+60,Beograd,2," Opština Rakovica, Labudovo brdo, 11. krajiške divizije",127000,2.0,halooglasi,2117,"Labudovo brdo, 60m2, II, cg, renoviran",Rakovica,44.7304798,20.4218693
+82,Beograd,3," Opština Stari grad, Centar, Kraljice Natalije",275000,3.5,halooglasi,3354,"Beograd, Centar, Kraljice Natalije",Stari Grad,44.8140173,20.4576465
+110,Beograd,5," Opština Novi Beograd, Blok 63, Japanska",369000,4.0,halooglasi,3355,"Novogradnja, izuzetan, 90m2+20m2 terasa, garaza!",Novi Beograd,44.8061215,20.3819017
+62,Beograd,p," Opština Voždovac, Lekino brdo, Gospodara Vučića",168000,3.0,halooglasi,2710,"Lekino brdo, duplex",Voždovac,44.791754,20.4882691
+95,Beograd,0.5," Opština Zvezdara, Bulbulder, Mariborska",300000,3.5,halooglasi,3158,"Bulbulder, sa parking mestom",Zvezdara,44.8031732,20.4904373
+95,Beograd,1," Opština Novi Beograd, Blok 37, Bulevar Milutina Milankovića",210000,3.0,halooglasi,2211,"Blok 37, Milutina Milankovica, 3.0 95m2, lodje, 1/",Novi Beograd,44.8198925,20.3962674
+33,Beograd,1," Opština Zemun, Altina, Abebe Bikile",56000,0.5,halooglasi,1697,"Beograd, Zemun, Altina",Zemun,44.8486766,20.3642301
+63,Beograd,p," Opština Čukarica, Košutnjak, Pionirska",159000,3.0,halooglasi,2524,"Topčider, salonac - Pionirska 63kvm",Čukarica,44.7667539,20.4326687
+75,Beograd,11," Opština Zemun, Karađorđev trg, Karađorđev trg",189000,3.0,halooglasi,2520,Zemun Kej- Karađorđev trg,Zemun,44.8367636,20.4175586
+70,Beograd,2," Opština Zemun, Galenika, Milenka Verkića",98000,3.0,halooglasi,1400,"Milenka Verkića, Nova Galenka, Zemun ID#2018",Zemun,44.8590305,20.3678977
+108,Beograd,p," Opština Palilula, Hadžipopovac",373170,4.0,halooglasi,3469,"Hadžipopovac, Lux novogrdnja, 4.0, garaža",Palilula,44.8123033,20.48164
+69,Beograd,0.5," Opština Zvezdara, Učiteljsko naselje, Paje Jovanovića",157642,3.0,halooglasi,2300,"3.0, Učiteljsko naselje, Paje Jovanovića, 68.55m2",Zvezdara,44.7890567,20.509463
+62,Beograd,3," Opština Novi Beograd, Bežanijska kosa 2, Danila Lekića Španca",163500,2.5,halooglasi,2637,Danila Lekića Španca Bežanijska kosa Novi Beogr...,Novi Beograd,44.8197096,20.3881321
+70,Beograd,2," Opština Zvezdara, Mirijevo, Radeta Markovića",147000,2.5,halooglasi,2100,"Zvezdara (Beograd), Mirijevo, Stan, 2.5, 70m2",Zvezdara,44.8013637,20.5222851
+80,Beograd,0.5," Opština Zvezdara, Konjarnik, Mihaila Todorovića",192000,4.0,halooglasi,2415,4.0 stan u novogradnji na Konjarniku ID#1756,Zvezdara,44.7816364,20.5125607
+108,Beograd,2,Savski Venac,310000,4.0,4zida,2870,Kneza Miloša,Savski Venac,44.8028737,20.4575104
+66,Beograd,p," Opština Novi Beograd, Blok 23, Bulevar Arsenija Čarnojevića",175000,2.5,halooglasi,2652,"Blizina Sava centra, duplex, mereno 81m2+15m2 tera",Novi Beograd,44.8097195,20.4241549
+57,Beograd,1," Opština Zvezdara, Cvetkova pijaca, Donska",169000,2.5,halooglasi,2965,"Cvetkova Pijaca, Donska",Zvezdara,44.790374,20.5025341
+58,Beograd,1," Opština Čukarica, Železnik, Darinke Radović",95900,2.0,halooglasi,1653,Dvosoban stan odličnog rasporeda - 58m2,Čukarica,44.7298193,20.3828747
+93,Beograd,0.5," Opština Palilula, Botanička bašta, ",368000,4.0,halooglasi,3993,"Botanička bašta, Palilula ID#2075",Palilula,44.8114529,20.4783364
+92,Beograd,2," Opština Novi Beograd, Bežanijska kosa 3, Srđana Aleksića",199990,3.5,halooglasi,2174,"3,5-soban, 92m2+T, bela fasadna cigla",Novi Beograd,44.8093102,20.362602
+42,Beograd,1," Opština Rakovica, Skojevsko naselje, Ranka Žeravice",88000,3.5,halooglasi,2118,"Skojevsko naselje, Ranka Žeravice, 1.5, 41,55 m2 I",Rakovica,44.7493021,20.433798
+52,Beograd,0," Opština Zemun, Zemun polje, Anke Matić",69900,2.0,halooglasi,1344,Zemun Polje,Zemun,44.8690399,20.3215066
+59,Beograd,1," Opština Stari grad, Dorćol, Venizelosova",340000,2.0,halooglasi,5763,"Dorćol, 2s u pametnoj zgradi, gar.mesto ID#6211",Stari Grad,44.8200189,20.4696403
+189,Beograd,p," Opština Novi Beograd, Blok 19a, Vladimira Popovića",470000,6.0,halooglasi,2487,"Trosoban stan, blok 19A,Vladimira Popovića,189m2",Novi Beograd,44.8064095,20.4296124
+80,Beograd,2," Opština Čukarica, Bele vode, Momčila Čedića",109999,2.5,halooglasi,1375,"Bele vode, dupleks, 2.5, video prikaz",Čukarica,44.7524415,20.4072856
+81,Beograd,2,"Savamala, Savski Venac",239000,3.5,4zida,2951,Svetozara Radića,Savski Venac,44.8128141,20.4524434
+82,Beograd,p," Opština Zvezdara, Veliki Mokri Lug, Mate Miloševića",165000,4.0,halooglasi,2012,Vojvode Vlahovića - Lux - Dupleks,Zvezdara,44.7615198,20.5083112
+46,Beograd,p," Opština Zvezdara, Učiteljsko naselje, Mis Irbijeve",84000,2.0,halooglasi,1826,"Učiteljsko naselje, Mis Irbijeve (ID: 976) ID#9997",Zvezdara,44.7881334,20.5103398
+69,Beograd,0.5," Opština Zemun, Gornji grad, Banjička",129000,3.0,halooglasi,1870,"Zemun, Gornji grad - Renoviran",Zemun,44.844852,20.3824868
+109,Beograd,8,"Beograd na vodi, Savski Venac",498000,4.0,4zida,4569,Bulevar Vudroa Vilsona,Savski Venac,44.8061877,20.4584544
+37,Beograd,0," Opština Zvezdara, Cvetanova ćuprija, Predraga Tomića",74000,1.5,halooglasi,2000,"Zvezdara, Cvetanova ćuprija - Predraga Tomića",Zvezdara,44.7640221,20.5094871
+72,Beograd,3," Opština Zvezdara, Mirijevo, Miroslava Krleže",143000,2.5,halooglasi,1986,Mirijevo Miroslava Krleže 72m2,Zvezdara,44.7882522,20.5420081
+65,Beograd,2," Opština Čukarica, Cerak vinogradi, Lipa",155000,2.5,halooglasi,2385,"Cerak vinogradi, Lipa, 65+2m2, 2.5",Čukarica,44.7438711,20.4214696
+85,Beograd,10," Opština Stari grad, Dorćol, Mike Alasa",300000,3.5,halooglasi,3529,"Odličan, renoviran 3.0  kvalitetan Dorćol kod Keja",Stari Grad,44.8270561,20.4635355
+92,Beograd,6,"Trošarina, Voždovac opština",253900,3.0,4zida,2760,Vojvode Stepe,Voždovac,44.7612216,20.4841161
+60,Beograd,0," Opština Surčin, Boljevci, Ulica mira",90000,3.0,halooglasi,1500,Prodaja Novogradnja Boljevci Surcin Duplexi uknjiz,Surčin,44.7225323,20.2165034
